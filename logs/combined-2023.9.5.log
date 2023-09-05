@@ -1,0 +1,266 @@
+{"level":30,"time":1693877737688,"pid":6432,"hostname":"Kiri86","msg":"Validando del archivo de configuracion y las variables de entorno"}
+{"level":40,"time":1693877737689,"pid":6432,"hostname":"Kiri86","msg":"env: WEATHERSTACK_KEY Está perdido. El comando meteorológico no funciona"}
+{"level":30,"time":1693877737759,"pid":6432,"hostname":"Kiri86","msg":"Cargando comandos..."}
+{"level":20,"time":1693877738515,"pid":6432,"hostname":"Kiri86","msg":"Saltando slash command avatar. Deshabilitado!"}
+{"level":20,"time":1693877738517,"pid":6432,"hostname":"Kiri86","msg":"Saltando slash command botinvite. Deshabilitado!"}
+{"level":20,"time":1693877738519,"pid":6432,"hostname":"Kiri86","msg":"Saltando slash command botstats. Deshabilitado!"}
+{"level":20,"time":1693877738523,"pid":6432,"hostname":"Kiri86","msg":"Saltando slash command channelinfo. Deshabilitado!"}
+{"level":20,"time":1693877738526,"pid":6432,"hostname":"Kiri86","msg":"Saltando slash command emojiinfo. Deshabilitado!"}
+{"level":20,"time":1693877738537,"pid":6432,"hostname":"Kiri86","msg":"Saltando slash command guildinfo. Deshabilitado!"}
+{"level":20,"time":1693877738538,"pid":6432,"hostname":"Kiri86","msg":"Saltando slash command uptime. Deshabilitado!"}
+{"level":20,"time":1693877738540,"pid":6432,"hostname":"Kiri86","msg":"Saltando slash command userinfo. Deshabilitado!"}
+{"level":20,"time":1693877738543,"pid":6432,"hostname":"Kiri86","msg":"Saltando comando bot. Deshabilitado!"}
+{"level":20,"time":1693877738544,"pid":6432,"hostname":"Kiri86","msg":"Saltando comando info. Deshabilitado!"}
+{"level":20,"time":1693877738560,"pid":6432,"hostname":"Kiri86","msg":"Saltando slash command deafen. Deshabilitado!"}
+{"level":20,"time":1693877738562,"pid":6432,"hostname":"Kiri86","msg":"Saltando slash command disconnect. Deshabilitado!"}
+{"level":20,"time":1693877738564,"pid":6432,"hostname":"Kiri86","msg":"Saltando slash command move. Deshabilitado!"}
+{"level":20,"time":1693877738565,"pid":6432,"hostname":"Kiri86","msg":"Saltando slash command purge. Deshabilitado!"}
+{"level":20,"time":1693877738566,"pid":6432,"hostname":"Kiri86","msg":"Saltando slash command purgeattach. Deshabilitado!"}
+{"level":20,"time":1693877738567,"pid":6432,"hostname":"Kiri86","msg":"Saltando slash command purgebots. Deshabilitado!"}
+{"level":20,"time":1693877738569,"pid":6432,"hostname":"Kiri86","msg":"Saltando slash command purgelinks. Deshabilitado!"}
+{"level":20,"time":1693877738570,"pid":6432,"hostname":"Kiri86","msg":"Saltando slash command purgetoken. Deshabilitado!"}
+{"level":20,"time":1693877738571,"pid":6432,"hostname":"Kiri86","msg":"Saltando slash command purgeuser. Deshabilitado!"}
+{"level":20,"time":1693877738573,"pid":6432,"hostname":"Kiri86","msg":"Saltando slash command undeafen. Deshabilitado!"}
+{"level":20,"time":1693877738574,"pid":6432,"hostname":"Kiri86","msg":"Saltando slash command vmute. Deshabilitado!"}
+{"level":20,"time":1693877738576,"pid":6432,"hostname":"Kiri86","msg":"Saltando slash command vunmute. Deshabilitado!"}
+{"level":20,"time":1693877738579,"pid":6432,"hostname":"Kiri86","msg":"Saltando comando purge. Deshabilitado!"}
+{"level":20,"time":1693877738580,"pid":6432,"hostname":"Kiri86","msg":"Saltando comando voice. Deshabilitado!"}
+{"level":20,"time":1693877738621,"pid":6432,"hostname":"Kiri86","msg":"Saltando slash command eval. Deshabilitado!"}
+{"level":20,"time":1693877738622,"pid":6432,"hostname":"Kiri86","msg":"Saltando slash command leaveserver. Deshabilitado!"}
+{"level":20,"time":1693877738626,"pid":6432,"hostname":"Kiri86","msg":"Saltando slash command listservers. Deshabilitado!"}
+{"level":20,"time":1693877738634,"pid":6432,"hostname":"Kiri86","msg":"Saltando comando suggest. La categoría SUGGESTION está deshabilitada"}
+{"level":20,"time":1693877738637,"pid":6432,"hostname":"Kiri86","msg":"Saltando comando suggestion. La categoría SUGGESTION está deshabilitada"}
+{"level":20,"time":1693877738640,"pid":6432,"hostname":"Kiri86","msg":"Saltando comando ticket. La categoría TICKET está deshabilitada"}
+{"level":20,"time":1693877738641,"pid":6432,"hostname":"Kiri86","msg":"Saltando comando ticketcat. La categoría TICKET está deshabilitada"}
+{"level":30,"time":1693877738658,"pid":6432,"hostname":"Kiri86","msg":"Cargados  101 comandos"}
+{"level":30,"time":1693877738658,"pid":6432,"hostname":"Kiri86","msg":"Cargados  82 slash commands"}
+{"level":30,"time":1693877738659,"pid":6432,"hostname":"Kiri86","msg":"Carga de contextos..."}
+{"level":30,"time":1693877738661,"pid":6432,"hostname":"Kiri86","msg":"Cargados 0 contextos de USUARIO"}
+{"level":30,"time":1693877738661,"pid":6432,"hostname":"Kiri86","msg":"Cargados 0 contextos de MENSAJE"}
+{"level":30,"time":1693877738661,"pid":6432,"hostname":"Kiri86","msg":"Cargando eventos..."}
+{"level":30,"time":1693877738718,"pid":6432,"hostname":"Kiri86","msg":"Cargados 15 eventos. Exito (15) Fallos (0)"}
+{"level":30,"time":1693877738719,"pid":6432,"hostname":"Kiri86","msg":"Iniciando Panel de Control"}
+{"level":30,"time":1693877738910,"pid":6432,"hostname":"Kiri86","msg":"Conectando con MongoDb..."}
+{"level":50,"time":1693877739386,"pid":6432,"hostname":"Kiri86","err":{"type":"MongoServerError","message":"bad auth : authentication failed","stack":"MongoServerError: bad auth : authentication failed\n    at Connection.onMessage (E:\\GitHub\\ArcticUpdate\\node_modules\\mongodb\\lib\\cmap\\connection.js:202:26)\n    at MessageStream.<anonymous> (E:\\GitHub\\ArcticUpdate\\node_modules\\mongodb\\lib\\cmap\\connection.js:61:60)\n    at MessageStream.emit (node:events:514:28)\n    at processIncomingData (E:\\GitHub\\ArcticUpdate\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:124:16)\n    at MessageStream._write (E:\\GitHub\\ArcticUpdate\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:33:9)\n    at writeOrBuffer (node:internal/streams/writable:392:12)\n    at _write (node:internal/streams/writable:333:10)\n    at Writable.write (node:internal/streams/writable:337:10)\n    at TLSSocket.ondata (node:internal/streams/readable:766:22)\n    at TLSSocket.emit (node:events:514:28)","ok":0,"code":8000,"codeName":"AtlasError","connectionGeneration":0},"msg":"Mongoose: Fallo al conectar con la base de datos: bad auth : authentication failed"}
+{"level":30,"time":1693877767296,"pid":11712,"hostname":"Kiri86","msg":"Validando del archivo de configuracion y las variables de entorno"}
+{"level":40,"time":1693877767298,"pid":11712,"hostname":"Kiri86","msg":"env: WEATHERSTACK_KEY Está perdido. El comando meteorológico no funciona"}
+{"level":30,"time":1693877767368,"pid":11712,"hostname":"Kiri86","msg":"Cargando comandos..."}
+{"level":20,"time":1693877768087,"pid":11712,"hostname":"Kiri86","msg":"Saltando slash command avatar. Deshabilitado!"}
+{"level":20,"time":1693877768090,"pid":11712,"hostname":"Kiri86","msg":"Saltando slash command botinvite. Deshabilitado!"}
+{"level":20,"time":1693877768092,"pid":11712,"hostname":"Kiri86","msg":"Saltando slash command botstats. Deshabilitado!"}
+{"level":20,"time":1693877768095,"pid":11712,"hostname":"Kiri86","msg":"Saltando slash command channelinfo. Deshabilitado!"}
+{"level":20,"time":1693877768098,"pid":11712,"hostname":"Kiri86","msg":"Saltando slash command emojiinfo. Deshabilitado!"}
+{"level":20,"time":1693877768108,"pid":11712,"hostname":"Kiri86","msg":"Saltando slash command guildinfo. Deshabilitado!"}
+{"level":20,"time":1693877768110,"pid":11712,"hostname":"Kiri86","msg":"Saltando slash command uptime. Deshabilitado!"}
+{"level":20,"time":1693877768112,"pid":11712,"hostname":"Kiri86","msg":"Saltando slash command userinfo. Deshabilitado!"}
+{"level":20,"time":1693877768115,"pid":11712,"hostname":"Kiri86","msg":"Saltando comando bot. Deshabilitado!"}
+{"level":20,"time":1693877768117,"pid":11712,"hostname":"Kiri86","msg":"Saltando comando info. Deshabilitado!"}
+{"level":20,"time":1693877768132,"pid":11712,"hostname":"Kiri86","msg":"Saltando slash command deafen. Deshabilitado!"}
+{"level":20,"time":1693877768195,"pid":11712,"hostname":"Kiri86","msg":"Saltando slash command disconnect. Deshabilitado!"}
+{"level":20,"time":1693877768200,"pid":11712,"hostname":"Kiri86","msg":"Saltando slash command move. Deshabilitado!"}
+{"level":20,"time":1693877768201,"pid":11712,"hostname":"Kiri86","msg":"Saltando slash command purge. Deshabilitado!"}
+{"level":20,"time":1693877768203,"pid":11712,"hostname":"Kiri86","msg":"Saltando slash command purgeattach. Deshabilitado!"}
+{"level":20,"time":1693877768204,"pid":11712,"hostname":"Kiri86","msg":"Saltando slash command purgebots. Deshabilitado!"}
+{"level":20,"time":1693877768205,"pid":11712,"hostname":"Kiri86","msg":"Saltando slash command purgelinks. Deshabilitado!"}
+{"level":20,"time":1693877768206,"pid":11712,"hostname":"Kiri86","msg":"Saltando slash command purgetoken. Deshabilitado!"}
+{"level":20,"time":1693877768208,"pid":11712,"hostname":"Kiri86","msg":"Saltando slash command purgeuser. Deshabilitado!"}
+{"level":20,"time":1693877768210,"pid":11712,"hostname":"Kiri86","msg":"Saltando slash command undeafen. Deshabilitado!"}
+{"level":20,"time":1693877768212,"pid":11712,"hostname":"Kiri86","msg":"Saltando slash command vmute. Deshabilitado!"}
+{"level":20,"time":1693877768214,"pid":11712,"hostname":"Kiri86","msg":"Saltando slash command vunmute. Deshabilitado!"}
+{"level":20,"time":1693877768217,"pid":11712,"hostname":"Kiri86","msg":"Saltando comando purge. Deshabilitado!"}
+{"level":20,"time":1693877768218,"pid":11712,"hostname":"Kiri86","msg":"Saltando comando voice. Deshabilitado!"}
+{"level":20,"time":1693877768241,"pid":11712,"hostname":"Kiri86","msg":"Saltando slash command eval. Deshabilitado!"}
+{"level":20,"time":1693877768243,"pid":11712,"hostname":"Kiri86","msg":"Saltando slash command leaveserver. Deshabilitado!"}
+{"level":20,"time":1693877768244,"pid":11712,"hostname":"Kiri86","msg":"Saltando slash command listservers. Deshabilitado!"}
+{"level":20,"time":1693877768251,"pid":11712,"hostname":"Kiri86","msg":"Saltando comando suggest. La categoría SUGGESTION está deshabilitada"}
+{"level":20,"time":1693877768254,"pid":11712,"hostname":"Kiri86","msg":"Saltando comando suggestion. La categoría SUGGESTION está deshabilitada"}
+{"level":20,"time":1693877768257,"pid":11712,"hostname":"Kiri86","msg":"Saltando comando ticket. La categoría TICKET está deshabilitada"}
+{"level":20,"time":1693877768258,"pid":11712,"hostname":"Kiri86","msg":"Saltando comando ticketcat. La categoría TICKET está deshabilitada"}
+{"level":30,"time":1693877768275,"pid":11712,"hostname":"Kiri86","msg":"Cargados  101 comandos"}
+{"level":30,"time":1693877768275,"pid":11712,"hostname":"Kiri86","msg":"Cargados  82 slash commands"}
+{"level":30,"time":1693877768276,"pid":11712,"hostname":"Kiri86","msg":"Carga de contextos..."}
+{"level":30,"time":1693877768278,"pid":11712,"hostname":"Kiri86","msg":"Cargados 0 contextos de USUARIO"}
+{"level":30,"time":1693877768278,"pid":11712,"hostname":"Kiri86","msg":"Cargados 0 contextos de MENSAJE"}
+{"level":30,"time":1693877768278,"pid":11712,"hostname":"Kiri86","msg":"Cargando eventos..."}
+{"level":30,"time":1693877768328,"pid":11712,"hostname":"Kiri86","msg":"Cargados 15 eventos. Exito (15) Fallos (0)"}
+{"level":30,"time":1693877768328,"pid":11712,"hostname":"Kiri86","msg":"Iniciando Panel de Control"}
+{"level":30,"time":1693877768505,"pid":11712,"hostname":"Kiri86","msg":"Conectando con MongoDb..."}
+{"level":50,"time":1693877768920,"pid":11712,"hostname":"Kiri86","err":{"type":"MongoServerError","message":"bad auth : authentication failed","stack":"MongoServerError: bad auth : authentication failed\n    at Connection.onMessage (E:\\GitHub\\ArcticUpdate\\node_modules\\mongodb\\lib\\cmap\\connection.js:202:26)\n    at MessageStream.<anonymous> (E:\\GitHub\\ArcticUpdate\\node_modules\\mongodb\\lib\\cmap\\connection.js:61:60)\n    at MessageStream.emit (node:events:514:28)\n    at processIncomingData (E:\\GitHub\\ArcticUpdate\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:124:16)\n    at MessageStream._write (E:\\GitHub\\ArcticUpdate\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:33:9)\n    at writeOrBuffer (node:internal/streams/writable:392:12)\n    at _write (node:internal/streams/writable:333:10)\n    at Writable.write (node:internal/streams/writable:337:10)\n    at TLSSocket.ondata (node:internal/streams/readable:766:22)\n    at TLSSocket.emit (node:events:514:28)","ok":0,"code":8000,"codeName":"AtlasError","connectionGeneration":0},"msg":"Mongoose: Fallo al conectar con la base de datos: bad auth : authentication failed"}
+{"level":30,"time":1693877840363,"pid":5672,"hostname":"Kiri86","msg":"Validando del archivo de configuracion y las variables de entorno"}
+{"level":40,"time":1693877840365,"pid":5672,"hostname":"Kiri86","msg":"env: WEATHERSTACK_KEY Está perdido. El comando meteorológico no funciona"}
+{"level":30,"time":1693877840435,"pid":5672,"hostname":"Kiri86","msg":"Cargando comandos..."}
+{"level":20,"time":1693877841206,"pid":5672,"hostname":"Kiri86","msg":"Saltando slash command avatar. Deshabilitado!"}
+{"level":20,"time":1693877841208,"pid":5672,"hostname":"Kiri86","msg":"Saltando slash command botinvite. Deshabilitado!"}
+{"level":20,"time":1693877841210,"pid":5672,"hostname":"Kiri86","msg":"Saltando slash command botstats. Deshabilitado!"}
+{"level":20,"time":1693877841212,"pid":5672,"hostname":"Kiri86","msg":"Saltando slash command channelinfo. Deshabilitado!"}
+{"level":20,"time":1693877841214,"pid":5672,"hostname":"Kiri86","msg":"Saltando slash command emojiinfo. Deshabilitado!"}
+{"level":20,"time":1693877841224,"pid":5672,"hostname":"Kiri86","msg":"Saltando slash command guildinfo. Deshabilitado!"}
+{"level":20,"time":1693877841225,"pid":5672,"hostname":"Kiri86","msg":"Saltando slash command uptime. Deshabilitado!"}
+{"level":20,"time":1693877841226,"pid":5672,"hostname":"Kiri86","msg":"Saltando slash command userinfo. Deshabilitado!"}
+{"level":20,"time":1693877841229,"pid":5672,"hostname":"Kiri86","msg":"Saltando comando bot. Deshabilitado!"}
+{"level":20,"time":1693877841230,"pid":5672,"hostname":"Kiri86","msg":"Saltando comando info. Deshabilitado!"}
+{"level":20,"time":1693877841244,"pid":5672,"hostname":"Kiri86","msg":"Saltando slash command deafen. Deshabilitado!"}
+{"level":20,"time":1693877841246,"pid":5672,"hostname":"Kiri86","msg":"Saltando slash command disconnect. Deshabilitado!"}
+{"level":20,"time":1693877841248,"pid":5672,"hostname":"Kiri86","msg":"Saltando slash command move. Deshabilitado!"}
+{"level":20,"time":1693877841249,"pid":5672,"hostname":"Kiri86","msg":"Saltando slash command purge. Deshabilitado!"}
+{"level":20,"time":1693877841250,"pid":5672,"hostname":"Kiri86","msg":"Saltando slash command purgeattach. Deshabilitado!"}
+{"level":20,"time":1693877841251,"pid":5672,"hostname":"Kiri86","msg":"Saltando slash command purgebots. Deshabilitado!"}
+{"level":20,"time":1693877841251,"pid":5672,"hostname":"Kiri86","msg":"Saltando slash command purgelinks. Deshabilitado!"}
+{"level":20,"time":1693877841252,"pid":5672,"hostname":"Kiri86","msg":"Saltando slash command purgetoken. Deshabilitado!"}
+{"level":20,"time":1693877841253,"pid":5672,"hostname":"Kiri86","msg":"Saltando slash command purgeuser. Deshabilitado!"}
+{"level":20,"time":1693877841255,"pid":5672,"hostname":"Kiri86","msg":"Saltando slash command undeafen. Deshabilitado!"}
+{"level":20,"time":1693877841257,"pid":5672,"hostname":"Kiri86","msg":"Saltando slash command vmute. Deshabilitado!"}
+{"level":20,"time":1693877841258,"pid":5672,"hostname":"Kiri86","msg":"Saltando slash command vunmute. Deshabilitado!"}
+{"level":20,"time":1693877841261,"pid":5672,"hostname":"Kiri86","msg":"Saltando comando purge. Deshabilitado!"}
+{"level":20,"time":1693877841262,"pid":5672,"hostname":"Kiri86","msg":"Saltando comando voice. Deshabilitado!"}
+{"level":20,"time":1693877841284,"pid":5672,"hostname":"Kiri86","msg":"Saltando slash command eval. Deshabilitado!"}
+{"level":20,"time":1693877841286,"pid":5672,"hostname":"Kiri86","msg":"Saltando slash command leaveserver. Deshabilitado!"}
+{"level":20,"time":1693877841287,"pid":5672,"hostname":"Kiri86","msg":"Saltando slash command listservers. Deshabilitado!"}
+{"level":20,"time":1693877841294,"pid":5672,"hostname":"Kiri86","msg":"Saltando comando suggest. La categoría SUGGESTION está deshabilitada"}
+{"level":20,"time":1693877841296,"pid":5672,"hostname":"Kiri86","msg":"Saltando comando suggestion. La categoría SUGGESTION está deshabilitada"}
+{"level":20,"time":1693877841299,"pid":5672,"hostname":"Kiri86","msg":"Saltando comando ticket. La categoría TICKET está deshabilitada"}
+{"level":20,"time":1693877841300,"pid":5672,"hostname":"Kiri86","msg":"Saltando comando ticketcat. La categoría TICKET está deshabilitada"}
+{"level":30,"time":1693877841316,"pid":5672,"hostname":"Kiri86","msg":"Cargados  101 comandos"}
+{"level":30,"time":1693877841316,"pid":5672,"hostname":"Kiri86","msg":"Cargados  82 slash commands"}
+{"level":30,"time":1693877841316,"pid":5672,"hostname":"Kiri86","msg":"Carga de contextos..."}
+{"level":30,"time":1693877841318,"pid":5672,"hostname":"Kiri86","msg":"Cargados 0 contextos de USUARIO"}
+{"level":30,"time":1693877841318,"pid":5672,"hostname":"Kiri86","msg":"Cargados 0 contextos de MENSAJE"}
+{"level":30,"time":1693877841318,"pid":5672,"hostname":"Kiri86","msg":"Cargando eventos..."}
+{"level":30,"time":1693877841366,"pid":5672,"hostname":"Kiri86","msg":"Cargados 15 eventos. Exito (15) Fallos (0)"}
+{"level":30,"time":1693877841366,"pid":5672,"hostname":"Kiri86","msg":"Iniciando Panel de Control"}
+{"level":30,"time":1693877841540,"pid":5672,"hostname":"Kiri86","msg":"Conectando con MongoDb..."}
+{"level":30,"time":1693877842065,"pid":5672,"hostname":"Kiri86","msg":"Mongoose: Conexion establecida con la base de datos"}
+{"level":30,"time":1693877842088,"pid":5672,"hostname":"Kiri86","msg":"El Panel de control esta en el puerto8080"}
+{"level":30,"time":1693877843129,"pid":5672,"hostname":"Kiri86","msg":"Conectado como ArcticUpdate#9309! (1144707918189576332)"}
+{"level":20,"time":1693877843130,"pid":5672,"hostname":"Kiri86","msg":"Nodo \"Arctic Nodo\" debug: connection: creating websocket..."}
+{"level":30,"time":1693877843131,"pid":5672,"hostname":"Kiri86","msg":"Gestor de musica iniciado"}
+{"level":30,"time":1693877843131,"pid":5672,"hostname":"Kiri86","msg":"Iniciando gestor de sorteos..."}
+{"level":30,"time":1693877843170,"pid":5672,"hostname":"Kiri86","msg":"Gestor de sorteos iniciado"}
+{"level":30,"time":1693877843278,"pid":5672,"hostname":"Kiri86","msg":"Nodo \"Arctic Nodo\" conectado"}
+{"level":20,"time":1693877843278,"pid":5672,"hostname":"Kiri86","msg":"Nodo \"Arctic Nodo\" debug: connection: connected in 147ms"}
+{"level":20,"time":1693877843293,"pid":5672,"hostname":"Kiri86","msg":"Nodo \"Arctic Nodo\" debug: connection: lavaclient <<< stats: {\"playingPlayers\":3,\"op\":\"stats\",\"memory\":{\"reservable\":1006632960,\"used\":390511848,\"free\":616121112,\"allocated\":1006632960},\"players\":43,\"cpu\":{\"cores\":3,\"systemLoad\":0,\"lavalinkLoad\":0.41397550418651935},\"uptime\":32194496661}"}
+{"level":30,"time":1693877843620,"pid":5672,"hostname":"Kiri86","msg":"Interacciones registradas con exito"}
+{"level":20,"time":1693877903279,"pid":5672,"hostname":"Kiri86","msg":"Nodo \"Arctic Nodo\" debug: connection: lavaclient <<< stats: {\"playingPlayers\":2,\"op\":\"stats\",\"memory\":{\"reservable\":1006632960,\"used\":535670496,\"free\":470962464,\"allocated\":1006632960},\"players\":43,\"cpu\":{\"cores\":3,\"systemLoad\":0.06497127879092075,\"lavalinkLoad\":0.06395936829704708},\"uptime\":32194556660}"}
+{"level":20,"time":1693877963278,"pid":5672,"hostname":"Kiri86","msg":"Nodo \"Arctic Nodo\" debug: connection: lavaclient <<< stats: {\"playingPlayers\":3,\"op\":\"stats\",\"memory\":{\"reservable\":1006632960,\"used\":467767848,\"free\":538865112,\"allocated\":1006632960},\"players\":43,\"cpu\":{\"cores\":3,\"systemLoad\":0.06719367588932806,\"lavalinkLoad\":0.0650566398328861},\"uptime\":32194616660}"}
+{"level":20,"time":1693878023282,"pid":5672,"hostname":"Kiri86","msg":"Nodo \"Arctic Nodo\" debug: connection: lavaclient <<< stats: {\"playingPlayers\":3,\"op\":\"stats\",\"memory\":{\"reservable\":1006632960,\"used\":667650016,\"free\":338982944,\"allocated\":1006632960},\"players\":43,\"cpu\":{\"cores\":3,\"systemLoad\":0.06850464153897774,\"lavalinkLoad\":0.07010994261206759},\"uptime\":32194676660}"}
+{"level":30,"time":1693878045769,"pid":12372,"hostname":"Kiri86","msg":"Validando del archivo de configuracion y las variables de entorno"}
+{"level":30,"time":1693878045840,"pid":12372,"hostname":"Kiri86","msg":"Cargando comandos..."}
+{"level":20,"time":1693878046596,"pid":12372,"hostname":"Kiri86","msg":"Saltando slash command avatar. Deshabilitado!"}
+{"level":20,"time":1693878046598,"pid":12372,"hostname":"Kiri86","msg":"Saltando slash command botinvite. Deshabilitado!"}
+{"level":20,"time":1693878046600,"pid":12372,"hostname":"Kiri86","msg":"Saltando slash command botstats. Deshabilitado!"}
+{"level":20,"time":1693878046602,"pid":12372,"hostname":"Kiri86","msg":"Saltando slash command channelinfo. Deshabilitado!"}
+{"level":20,"time":1693878046604,"pid":12372,"hostname":"Kiri86","msg":"Saltando slash command emojiinfo. Deshabilitado!"}
+{"level":20,"time":1693878046613,"pid":12372,"hostname":"Kiri86","msg":"Saltando slash command guildinfo. Deshabilitado!"}
+{"level":20,"time":1693878046615,"pid":12372,"hostname":"Kiri86","msg":"Saltando slash command uptime. Deshabilitado!"}
+{"level":20,"time":1693878046616,"pid":12372,"hostname":"Kiri86","msg":"Saltando slash command userinfo. Deshabilitado!"}
+{"level":20,"time":1693878046619,"pid":12372,"hostname":"Kiri86","msg":"Saltando comando bot. Deshabilitado!"}
+{"level":20,"time":1693878046620,"pid":12372,"hostname":"Kiri86","msg":"Saltando comando info. Deshabilitado!"}
+{"level":20,"time":1693878046634,"pid":12372,"hostname":"Kiri86","msg":"Saltando slash command deafen. Deshabilitado!"}
+{"level":20,"time":1693878046636,"pid":12372,"hostname":"Kiri86","msg":"Saltando slash command disconnect. Deshabilitado!"}
+{"level":20,"time":1693878046637,"pid":12372,"hostname":"Kiri86","msg":"Saltando slash command move. Deshabilitado!"}
+{"level":20,"time":1693878046638,"pid":12372,"hostname":"Kiri86","msg":"Saltando slash command purge. Deshabilitado!"}
+{"level":20,"time":1693878046639,"pid":12372,"hostname":"Kiri86","msg":"Saltando slash command purgeattach. Deshabilitado!"}
+{"level":20,"time":1693878046640,"pid":12372,"hostname":"Kiri86","msg":"Saltando slash command purgebots. Deshabilitado!"}
+{"level":20,"time":1693878046641,"pid":12372,"hostname":"Kiri86","msg":"Saltando slash command purgelinks. Deshabilitado!"}
+{"level":20,"time":1693878046642,"pid":12372,"hostname":"Kiri86","msg":"Saltando slash command purgetoken. Deshabilitado!"}
+{"level":20,"time":1693878046642,"pid":12372,"hostname":"Kiri86","msg":"Saltando slash command purgeuser. Deshabilitado!"}
+{"level":20,"time":1693878046644,"pid":12372,"hostname":"Kiri86","msg":"Saltando slash command undeafen. Deshabilitado!"}
+{"level":20,"time":1693878046646,"pid":12372,"hostname":"Kiri86","msg":"Saltando slash command vmute. Deshabilitado!"}
+{"level":20,"time":1693878046647,"pid":12372,"hostname":"Kiri86","msg":"Saltando slash command vunmute. Deshabilitado!"}
+{"level":20,"time":1693878046650,"pid":12372,"hostname":"Kiri86","msg":"Saltando comando purge. Deshabilitado!"}
+{"level":20,"time":1693878046652,"pid":12372,"hostname":"Kiri86","msg":"Saltando comando voice. Deshabilitado!"}
+{"level":20,"time":1693878046674,"pid":12372,"hostname":"Kiri86","msg":"Saltando slash command eval. Deshabilitado!"}
+{"level":20,"time":1693878046675,"pid":12372,"hostname":"Kiri86","msg":"Saltando slash command leaveserver. Deshabilitado!"}
+{"level":20,"time":1693878046676,"pid":12372,"hostname":"Kiri86","msg":"Saltando slash command listservers. Deshabilitado!"}
+{"level":20,"time":1693878046683,"pid":12372,"hostname":"Kiri86","msg":"Saltando comando suggest. La categoría SUGGESTION está deshabilitada"}
+{"level":20,"time":1693878046685,"pid":12372,"hostname":"Kiri86","msg":"Saltando comando suggestion. La categoría SUGGESTION está deshabilitada"}
+{"level":20,"time":1693878046688,"pid":12372,"hostname":"Kiri86","msg":"Saltando comando ticket. La categoría TICKET está deshabilitada"}
+{"level":20,"time":1693878046689,"pid":12372,"hostname":"Kiri86","msg":"Saltando comando ticketcat. La categoría TICKET está deshabilitada"}
+{"level":30,"time":1693878046705,"pid":12372,"hostname":"Kiri86","msg":"Cargados  101 comandos"}
+{"level":30,"time":1693878046705,"pid":12372,"hostname":"Kiri86","msg":"Cargados  82 slash commands"}
+{"level":30,"time":1693878046705,"pid":12372,"hostname":"Kiri86","msg":"Carga de contextos..."}
+{"level":30,"time":1693878046707,"pid":12372,"hostname":"Kiri86","msg":"Cargados 0 contextos de USUARIO"}
+{"level":30,"time":1693878046707,"pid":12372,"hostname":"Kiri86","msg":"Cargados 0 contextos de MENSAJE"}
+{"level":30,"time":1693878046707,"pid":12372,"hostname":"Kiri86","msg":"Cargando eventos..."}
+{"level":30,"time":1693878046755,"pid":12372,"hostname":"Kiri86","msg":"Cargados 15 eventos. Exito (15) Fallos (0)"}
+{"level":30,"time":1693878046755,"pid":12372,"hostname":"Kiri86","msg":"Iniciando Panel de Control"}
+{"level":30,"time":1693878046932,"pid":12372,"hostname":"Kiri86","msg":"Conectando con MongoDb..."}
+{"level":30,"time":1693878047536,"pid":12372,"hostname":"Kiri86","msg":"Mongoose: Conexion establecida con la base de datos"}
+{"level":30,"time":1693878047555,"pid":12372,"hostname":"Kiri86","msg":"El Panel de control esta en el puerto8080"}
+{"level":30,"time":1693878048250,"pid":12372,"hostname":"Kiri86","msg":"Conectado como ArcticUpdate#9309! (1144707918189576332)"}
+{"level":20,"time":1693878048251,"pid":12372,"hostname":"Kiri86","msg":"Nodo \"Arctic Nodo\" debug: connection: creating websocket..."}
+{"level":30,"time":1693878048252,"pid":12372,"hostname":"Kiri86","msg":"Gestor de musica iniciado"}
+{"level":30,"time":1693878048252,"pid":12372,"hostname":"Kiri86","msg":"Iniciando gestor de sorteos..."}
+{"level":30,"time":1693878048291,"pid":12372,"hostname":"Kiri86","msg":"Gestor de sorteos iniciado"}
+{"level":30,"time":1693878048377,"pid":12372,"hostname":"Kiri86","msg":"Nodo \"Arctic Nodo\" conectado"}
+{"level":20,"time":1693878048377,"pid":12372,"hostname":"Kiri86","msg":"Nodo \"Arctic Nodo\" debug: connection: connected in 125ms"}
+{"level":20,"time":1693878048395,"pid":12372,"hostname":"Kiri86","msg":"Nodo \"Arctic Nodo\" debug: connection: lavaclient <<< stats: {\"playingPlayers\":3,\"op\":\"stats\",\"memory\":{\"reservable\":1006632960,\"used\":599420032,\"free\":407212928,\"allocated\":1006632960},\"players\":43,\"cpu\":{\"cores\":3,\"systemLoad\":0,\"lavalinkLoad\":0.41397617691342464},\"uptime\":32194701760}"}
+{"level":30,"time":1693878048754,"pid":12372,"hostname":"Kiri86","msg":"Interacciones registradas con exito"}
+{"level":20,"time":1693878108378,"pid":12372,"hostname":"Kiri86","msg":"Nodo \"Arctic Nodo\" debug: connection: lavaclient <<< stats: {\"playingPlayers\":3,\"op\":\"stats\",\"memory\":{\"reservable\":1006632960,\"used\":551476016,\"free\":455156944,\"allocated\":1006632960},\"players\":41,\"cpu\":{\"cores\":3,\"systemLoad\":0.06650468979545711,\"lavalinkLoad\":0.07668967356873728},\"uptime\":32194761760}"}
+{"level":20,"time":1693878168377,"pid":12372,"hostname":"Kiri86","msg":"Nodo \"Arctic Nodo\" debug: connection: lavaclient <<< stats: {\"playingPlayers\":3,\"op\":\"stats\",\"memory\":{\"reservable\":1006632960,\"used\":690918264,\"free\":315714696,\"allocated\":1006632960},\"players\":41,\"cpu\":{\"cores\":3,\"systemLoad\":0.04860163710777626,\"lavalinkLoad\":0.0656111111111111},\"uptime\":32194821760}"}
+{"level":20,"time":1693878228377,"pid":12372,"hostname":"Kiri86","msg":"Nodo \"Arctic Nodo\" debug: connection: lavaclient <<< stats: {\"playingPlayers\":3,\"op\":\"stats\",\"memory\":{\"reservable\":1006632960,\"used\":647006728,\"free\":359626232,\"allocated\":1006632960},\"players\":41,\"cpu\":{\"cores\":3,\"systemLoad\":0.047950634057971016,\"lavalinkLoad\":0.06138888888888889},\"uptime\":32194881760}"}
+{"level":20,"time":1693878288377,"pid":12372,"hostname":"Kiri86","msg":"Nodo \"Arctic Nodo\" debug: connection: lavaclient <<< stats: {\"playingPlayers\":2,\"op\":\"stats\",\"memory\":{\"reservable\":1006632960,\"used\":501912480,\"free\":504720480,\"allocated\":1006632960},\"players\":43,\"cpu\":{\"cores\":3,\"systemLoad\":0.04915062287655719,\"lavalinkLoad\":0.0626111111111111},\"uptime\":32194941760}"}
+{"level":30,"time":1693878346440,"pid":11844,"hostname":"Kiri86","msg":"Validando del archivo de configuracion y las variables de entorno"}
+{"level":30,"time":1693878346512,"pid":11844,"hostname":"Kiri86","msg":"Cargando comandos..."}
+{"level":20,"time":1693878347262,"pid":11844,"hostname":"Kiri86","msg":"Saltando slash command avatar. Deshabilitado!"}
+{"level":20,"time":1693878347264,"pid":11844,"hostname":"Kiri86","msg":"Saltando slash command botinvite. Deshabilitado!"}
+{"level":20,"time":1693878347266,"pid":11844,"hostname":"Kiri86","msg":"Saltando slash command botstats. Deshabilitado!"}
+{"level":20,"time":1693878347268,"pid":11844,"hostname":"Kiri86","msg":"Saltando slash command channelinfo. Deshabilitado!"}
+{"level":20,"time":1693878347270,"pid":11844,"hostname":"Kiri86","msg":"Saltando slash command emojiinfo. Deshabilitado!"}
+{"level":20,"time":1693878347280,"pid":11844,"hostname":"Kiri86","msg":"Saltando slash command guildinfo. Deshabilitado!"}
+{"level":20,"time":1693878347281,"pid":11844,"hostname":"Kiri86","msg":"Saltando slash command uptime. Deshabilitado!"}
+{"level":20,"time":1693878347283,"pid":11844,"hostname":"Kiri86","msg":"Saltando slash command userinfo. Deshabilitado!"}
+{"level":20,"time":1693878347285,"pid":11844,"hostname":"Kiri86","msg":"Saltando comando bot. Deshabilitado!"}
+{"level":20,"time":1693878347286,"pid":11844,"hostname":"Kiri86","msg":"Saltando comando info. Deshabilitado!"}
+{"level":20,"time":1693878347301,"pid":11844,"hostname":"Kiri86","msg":"Saltando slash command deafen. Deshabilitado!"}
+{"level":20,"time":1693878347302,"pid":11844,"hostname":"Kiri86","msg":"Saltando slash command disconnect. Deshabilitado!"}
+{"level":20,"time":1693878347305,"pid":11844,"hostname":"Kiri86","msg":"Saltando slash command move. Deshabilitado!"}
+{"level":20,"time":1693878347306,"pid":11844,"hostname":"Kiri86","msg":"Saltando slash command purge. Deshabilitado!"}
+{"level":20,"time":1693878347307,"pid":11844,"hostname":"Kiri86","msg":"Saltando slash command purgeattach. Deshabilitado!"}
+{"level":20,"time":1693878347308,"pid":11844,"hostname":"Kiri86","msg":"Saltando slash command purgebots. Deshabilitado!"}
+{"level":20,"time":1693878347309,"pid":11844,"hostname":"Kiri86","msg":"Saltando slash command purgelinks. Deshabilitado!"}
+{"level":20,"time":1693878347309,"pid":11844,"hostname":"Kiri86","msg":"Saltando slash command purgetoken. Deshabilitado!"}
+{"level":20,"time":1693878347310,"pid":11844,"hostname":"Kiri86","msg":"Saltando slash command purgeuser. Deshabilitado!"}
+{"level":20,"time":1693878347312,"pid":11844,"hostname":"Kiri86","msg":"Saltando slash command undeafen. Deshabilitado!"}
+{"level":20,"time":1693878347314,"pid":11844,"hostname":"Kiri86","msg":"Saltando slash command vmute. Deshabilitado!"}
+{"level":20,"time":1693878347315,"pid":11844,"hostname":"Kiri86","msg":"Saltando slash command vunmute. Deshabilitado!"}
+{"level":20,"time":1693878347318,"pid":11844,"hostname":"Kiri86","msg":"Saltando comando purge. Deshabilitado!"}
+{"level":20,"time":1693878347319,"pid":11844,"hostname":"Kiri86","msg":"Saltando comando voice. Deshabilitado!"}
+{"level":20,"time":1693878347341,"pid":11844,"hostname":"Kiri86","msg":"Saltando slash command eval. Deshabilitado!"}
+{"level":20,"time":1693878347343,"pid":11844,"hostname":"Kiri86","msg":"Saltando slash command leaveserver. Deshabilitado!"}
+{"level":20,"time":1693878347343,"pid":11844,"hostname":"Kiri86","msg":"Saltando slash command listservers. Deshabilitado!"}
+{"level":20,"time":1693878347351,"pid":11844,"hostname":"Kiri86","msg":"Saltando comando suggest. La categoría SUGGESTION está deshabilitada"}
+{"level":20,"time":1693878347353,"pid":11844,"hostname":"Kiri86","msg":"Saltando comando suggestion. La categoría SUGGESTION está deshabilitada"}
+{"level":20,"time":1693878347356,"pid":11844,"hostname":"Kiri86","msg":"Saltando comando ticket. La categoría TICKET está deshabilitada"}
+{"level":20,"time":1693878347357,"pid":11844,"hostname":"Kiri86","msg":"Saltando comando ticketcat. La categoría TICKET está deshabilitada"}
+{"level":30,"time":1693878347373,"pid":11844,"hostname":"Kiri86","msg":"Cargados  101 comandos"}
+{"level":30,"time":1693878347373,"pid":11844,"hostname":"Kiri86","msg":"Cargados  82 slash commands"}
+{"level":30,"time":1693878347373,"pid":11844,"hostname":"Kiri86","msg":"Carga de contextos..."}
+{"level":30,"time":1693878347375,"pid":11844,"hostname":"Kiri86","msg":"Cargados 0 contextos de USUARIO"}
+{"level":30,"time":1693878347375,"pid":11844,"hostname":"Kiri86","msg":"Cargados 0 contextos de MENSAJE"}
+{"level":30,"time":1693878347375,"pid":11844,"hostname":"Kiri86","msg":"Cargando eventos..."}
+{"level":30,"time":1693878347424,"pid":11844,"hostname":"Kiri86","msg":"Cargados 15 eventos. Exito (15) Fallos (0)"}
+{"level":30,"time":1693878347424,"pid":11844,"hostname":"Kiri86","msg":"Iniciando Panel de Control"}
+{"level":30,"time":1693878347600,"pid":11844,"hostname":"Kiri86","msg":"Conectando con MongoDb..."}
+{"level":30,"time":1693878348137,"pid":11844,"hostname":"Kiri86","msg":"Mongoose: Conexion establecida con la base de datos"}
+{"level":30,"time":1693878348156,"pid":11844,"hostname":"Kiri86","msg":"El Panel de control esta en el puerto8080"}
+{"level":30,"time":1693878348901,"pid":11844,"hostname":"Kiri86","msg":"Conectado como ArcticUpdate#9309! (1144707918189576332)"}
+{"level":20,"time":1693878348902,"pid":11844,"hostname":"Kiri86","msg":"Nodo \"Arctic Nodo\" debug: connection: creating websocket..."}
+{"level":30,"time":1693878348903,"pid":11844,"hostname":"Kiri86","msg":"Gestor de musica iniciado"}
+{"level":30,"time":1693878348903,"pid":11844,"hostname":"Kiri86","msg":"Iniciando gestor de sorteos..."}
+{"level":30,"time":1693878348941,"pid":11844,"hostname":"Kiri86","msg":"Gestor de sorteos iniciado"}
+{"level":30,"time":1693878349119,"pid":11844,"hostname":"Kiri86","msg":"Nodo \"Arctic Nodo\" conectado"}
+{"level":20,"time":1693878349119,"pid":11844,"hostname":"Kiri86","msg":"Nodo \"Arctic Nodo\" debug: connection: connected in 216ms"}
+{"level":20,"time":1693878349136,"pid":11844,"hostname":"Kiri86","msg":"Nodo \"Arctic Nodo\" debug: connection: lavaclient <<< stats: {\"playingPlayers\":2,\"op\":\"stats\",\"memory\":{\"reservable\":1006632960,\"used\":598173536,\"free\":408459424,\"allocated\":1006632960},\"players\":43,\"cpu\":{\"cores\":3,\"systemLoad\":0,\"lavalinkLoad\":0.4139747797334976},\"uptime\":32195002504}"}
+{"level":30,"time":1693878349462,"pid":11844,"hostname":"Kiri86","msg":"Interacciones registradas con exito"}
+{"level":20,"time":1693878391616,"pid":11844,"hostname":"Kiri86","error":"invalid_grant","error_description":"Invalid \"code\" in request."}
+{"level":50,"time":1693878391616,"pid":11844,"hostname":"Kiri86","msg":"Failed to login to dashboard! Check /logs folder for more details"}
+{"level":20,"time":1693878409118,"pid":11844,"hostname":"Kiri86","msg":"Nodo \"Arctic Nodo\" debug: connection: lavaclient <<< stats: {\"playingPlayers\":3,\"op\":\"stats\",\"memory\":{\"reservable\":1006632960,\"used\":389073760,\"free\":617559200,\"allocated\":1006632960},\"players\":43,\"cpu\":{\"cores\":3,\"systemLoad\":0.05590132397872581,\"lavalinkLoad\":0.06863284484531212},\"uptime\":32195062503}"}
+{"level":20,"time":1693878469122,"pid":11844,"hostname":"Kiri86","msg":"Nodo \"Arctic Nodo\" debug: connection: lavaclient <<< stats: {\"playingPlayers\":3,\"op\":\"stats\",\"memory\":{\"reservable\":1006632960,\"used\":678976416,\"free\":327656544,\"allocated\":1006632960},\"players\":43,\"cpu\":{\"cores\":3,\"systemLoad\":0.06498134640013364,\"lavalinkLoad\":0.06266562223962933},\"uptime\":32195122504}"}
+{"level":20,"time":1693878529117,"pid":11844,"hostname":"Kiri86","msg":"Nodo \"Arctic Nodo\" debug: connection: lavaclient <<< stats: {\"playingPlayers\":3,\"op\":\"stats\",\"memory\":{\"reservable\":1006632960,\"used\":500435536,\"free\":506197424,\"allocated\":1006632960},\"players\":43,\"cpu\":{\"cores\":3,\"systemLoad\":0.08213698630136987,\"lavalinkLoad\":0.0646121879809108},\"uptime\":32195182503}"}
+{"level":20,"time":1693878589123,"pid":11844,"hostname":"Kiri86","msg":"Nodo \"Arctic Nodo\" debug: connection: lavaclient <<< stats: {\"playingPlayers\":3,\"op\":\"stats\",\"memory\":{\"reservable\":1006632960,\"used\":384230608,\"free\":622402352,\"allocated\":1006632960},\"players\":44,\"cpu\":{\"cores\":3,\"systemLoad\":0.08813671080828617,\"lavalinkLoad\":0.07283333333333333},\"uptime\":32195242503}"}
+{"level":20,"time":1693878649118,"pid":11844,"hostname":"Kiri86","msg":"Nodo \"Arctic Nodo\" debug: connection: lavaclient <<< stats: {\"playingPlayers\":4,\"op\":\"stats\",\"memory\":{\"reservable\":1006632960,\"used\":673071936,\"free\":333561024,\"allocated\":1006632960},\"players\":44,\"cpu\":{\"cores\":3,\"systemLoad\":0.08563383392226148,\"lavalinkLoad\":0.07494319539118792},\"uptime\":32195302504}"}
+{"level":20,"time":1693878709117,"pid":11844,"hostname":"Kiri86","msg":"Nodo \"Arctic Nodo\" debug: connection: lavaclient <<< stats: {\"playingPlayers\":4,\"op\":\"stats\",\"memory\":{\"reservable\":1006632960,\"used\":517547016,\"free\":489085944,\"allocated\":1006632960},\"players\":44,\"cpu\":{\"cores\":3,\"systemLoad\":0.06308595956173049,\"lavalinkLoad\":0.07411234631688306},\"uptime\":32195362504}"}
+{"level":20,"time":1693878769117,"pid":11844,"hostname":"Kiri86","msg":"Nodo \"Arctic Nodo\" debug: connection: lavaclient <<< stats: {\"playingPlayers\":4,\"op\":\"stats\",\"memory\":{\"reservable\":1006632960,\"used\":723329128,\"free\":283303832,\"allocated\":1006632960},\"players\":47,\"cpu\":{\"cores\":3,\"systemLoad\":0.07172188783259267,\"lavalinkLoad\":0.0787209102070521},\"uptime\":32195422504}"}
+{"level":20,"time":1693878829117,"pid":11844,"hostname":"Kiri86","msg":"Nodo \"Arctic Nodo\" debug: connection: lavaclient <<< stats: {\"playingPlayers\":4,\"op\":\"stats\",\"memory\":{\"reservable\":1006632960,\"used\":573314752,\"free\":433318208,\"allocated\":1006632960},\"players\":47,\"cpu\":{\"cores\":3,\"systemLoad\":0.06084507042253521,\"lavalinkLoad\":0.06994444444444445},\"uptime\":32195482504}"}
+{"level":20,"time":1693878889116,"pid":11844,"hostname":"Kiri86","msg":"Nodo \"Arctic Nodo\" debug: connection: lavaclient <<< stats: {\"playingPlayers\":3,\"op\":\"stats\",\"memory\":{\"reservable\":1006632960,\"used\":532370632,\"free\":474262328,\"allocated\":1006632960},\"players\":46,\"cpu\":{\"cores\":3,\"systemLoad\":0.06641962831957779,\"lavalinkLoad\":0.0710567398345528},\"uptime\":32195542504}"}

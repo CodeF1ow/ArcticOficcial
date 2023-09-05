@@ -1,0 +1,755 @@
+{"level":30,"time":1693778584899,"pid":3896,"hostname":"DESKTOP-MFP1CTU","msg":"Validando del archivo de configuracion y las variables de entorno"}
+{"level":30,"time":1693778584961,"pid":3896,"hostname":"DESKTOP-MFP1CTU","msg":"Cargando comandos..."}
+{"level":20,"time":1693778585572,"pid":3896,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command avatar. Deshabilitado!"}
+{"level":20,"time":1693778585575,"pid":3896,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command botinvite. Deshabilitado!"}
+{"level":20,"time":1693778585578,"pid":3896,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command botstats. Deshabilitado!"}
+{"level":20,"time":1693778585582,"pid":3896,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command channelinfo. Deshabilitado!"}
+{"level":20,"time":1693778585585,"pid":3896,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command emojiinfo. Deshabilitado!"}
+{"level":20,"time":1693778585601,"pid":3896,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command guildinfo. Deshabilitado!"}
+{"level":20,"time":1693778585602,"pid":3896,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command uptime. Deshabilitado!"}
+{"level":20,"time":1693778585604,"pid":3896,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command userinfo. Deshabilitado!"}
+{"level":20,"time":1693778585607,"pid":3896,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando comando bot. Deshabilitado!"}
+{"level":20,"time":1693778585608,"pid":3896,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando comando info. Deshabilitado!"}
+{"level":20,"time":1693778585623,"pid":3896,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command deafen. Deshabilitado!"}
+{"level":20,"time":1693778585624,"pid":3896,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command disconnect. Deshabilitado!"}
+{"level":20,"time":1693778585626,"pid":3896,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command move. Deshabilitado!"}
+{"level":20,"time":1693778585627,"pid":3896,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command purge. Deshabilitado!"}
+{"level":20,"time":1693778585627,"pid":3896,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command purgeattach. Deshabilitado!"}
+{"level":20,"time":1693778585628,"pid":3896,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command purgebots. Deshabilitado!"}
+{"level":20,"time":1693778585629,"pid":3896,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command purgelinks. Deshabilitado!"}
+{"level":20,"time":1693778585629,"pid":3896,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command purgetoken. Deshabilitado!"}
+{"level":20,"time":1693778585630,"pid":3896,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command purgeuser. Deshabilitado!"}
+{"level":20,"time":1693778585631,"pid":3896,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command undeafen. Deshabilitado!"}
+{"level":20,"time":1693778585633,"pid":3896,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command vmute. Deshabilitado!"}
+{"level":20,"time":1693778585634,"pid":3896,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command vunmute. Deshabilitado!"}
+{"level":20,"time":1693778585637,"pid":3896,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando comando purge. Deshabilitado!"}
+{"level":20,"time":1693778585639,"pid":3896,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando comando voice. Deshabilitado!"}
+{"level":20,"time":1693778585660,"pid":3896,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command eval. Deshabilitado!"}
+{"level":20,"time":1693778585661,"pid":3896,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command leaveserver. Deshabilitado!"}
+{"level":20,"time":1693778585662,"pid":3896,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command listservers. Deshabilitado!"}
+{"level":30,"time":1693778585690,"pid":3896,"hostname":"DESKTOP-MFP1CTU","msg":"Cargados  105 comandos"}
+{"level":30,"time":1693778585690,"pid":3896,"hostname":"DESKTOP-MFP1CTU","msg":"Cargados  86 slash commands"}
+{"level":30,"time":1693778585690,"pid":3896,"hostname":"DESKTOP-MFP1CTU","msg":"Carga de contextos..."}
+{"level":30,"time":1693778585691,"pid":3896,"hostname":"DESKTOP-MFP1CTU","msg":"Cargados 0 contextos de USUARIO"}
+{"level":30,"time":1693778585692,"pid":3896,"hostname":"DESKTOP-MFP1CTU","msg":"Cargados 0 contextos de MENSAJE"}
+{"level":30,"time":1693778585692,"pid":3896,"hostname":"DESKTOP-MFP1CTU","msg":"Cargando eventos..."}
+{"level":30,"time":1693778585763,"pid":3896,"hostname":"DESKTOP-MFP1CTU","msg":"Cargados 15 eventos. Exito (15) Fallos (0)"}
+{"level":30,"time":1693778585764,"pid":3896,"hostname":"DESKTOP-MFP1CTU","msg":"Iniciando Panel de Control"}
+{"level":30,"time":1693778585948,"pid":3896,"hostname":"DESKTOP-MFP1CTU","msg":"Conectando con MongoDb..."}
+{"level":30,"time":1693778586562,"pid":3896,"hostname":"DESKTOP-MFP1CTU","msg":"Mongoose: Conexion establecida con la base de datos"}
+{"level":30,"time":1693778586582,"pid":3896,"hostname":"DESKTOP-MFP1CTU","msg":"El Panel de control esta en el puerto 8080"}
+{"level":30,"time":1693778587314,"pid":3896,"hostname":"DESKTOP-MFP1CTU","msg":"Conectado como ArcticUpdate#9309! (1144707918189576332)"}
+{"level":20,"time":1693778587314,"pid":3896,"hostname":"DESKTOP-MFP1CTU","msg":"Nodo \"NODO KC\" debug: connection: creating websocket..."}
+{"level":30,"time":1693778587315,"pid":3896,"hostname":"DESKTOP-MFP1CTU","msg":"Gestor de musica iniciado"}
+{"level":30,"time":1693778587315,"pid":3896,"hostname":"DESKTOP-MFP1CTU","msg":"Iniciando gestor de sorteos..."}
+{"level":30,"time":1693778587359,"pid":3896,"hostname":"DESKTOP-MFP1CTU","msg":"Gestor de sorteos iniciado"}
+{"level":30,"time":1693778587526,"pid":3896,"hostname":"DESKTOP-MFP1CTU","msg":"Nodo \"NODO KC\" conectado"}
+{"level":20,"time":1693778587526,"pid":3896,"hostname":"DESKTOP-MFP1CTU","msg":"Nodo \"NODO KC\" debug: connection: connected in 211ms"}
+{"level":20,"time":1693778587539,"pid":3896,"hostname":"DESKTOP-MFP1CTU","msg":"Nodo \"NODO KC\" debug: connection: lavaclient <<< stats: {\"playingPlayers\":7,\"op\":\"stats\",\"memory\":{\"reservable\":1006632960,\"used\":503807576,\"free\":502825384,\"allocated\":1006632960},\"players\":57,\"cpu\":{\"cores\":3,\"systemLoad\":0,\"lavalinkLoad\":0.41404733177519965},\"uptime\":32095307114}"}
+{"level":30,"time":1693778588120,"pid":3896,"hostname":"DESKTOP-MFP1CTU","msg":"Interacciones registradas con exito"}
+{"level":20,"time":1693778647518,"pid":3896,"hostname":"DESKTOP-MFP1CTU","msg":"Nodo \"NODO KC\" debug: connection: lavaclient <<< stats: {\"playingPlayers\":6,\"op\":\"stats\",\"memory\":{\"reservable\":1006632960,\"used\":540325456,\"free\":466307504,\"allocated\":1006632960},\"players\":57,\"cpu\":{\"cores\":3,\"systemLoad\":0.08983570036201616,\"lavalinkLoad\":0.08635780137705684},\"uptime\":32095367114}"}
+{"level":30,"time":1693778691154,"pid":3884,"hostname":"DESKTOP-MFP1CTU","msg":"Validando del archivo de configuracion y las variables de entorno"}
+{"level":30,"time":1693778691249,"pid":3884,"hostname":"DESKTOP-MFP1CTU","msg":"Cargando comandos..."}
+{"level":20,"time":1693778691905,"pid":3884,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command avatar. Deshabilitado!"}
+{"level":20,"time":1693778691906,"pid":3884,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command botinvite. Deshabilitado!"}
+{"level":20,"time":1693778691908,"pid":3884,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command botstats. Deshabilitado!"}
+{"level":20,"time":1693778691910,"pid":3884,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command channelinfo. Deshabilitado!"}
+{"level":20,"time":1693778691912,"pid":3884,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command emojiinfo. Deshabilitado!"}
+{"level":20,"time":1693778691923,"pid":3884,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command guildinfo. Deshabilitado!"}
+{"level":20,"time":1693778691924,"pid":3884,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command uptime. Deshabilitado!"}
+{"level":20,"time":1693778691926,"pid":3884,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command userinfo. Deshabilitado!"}
+{"level":20,"time":1693778691928,"pid":3884,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando comando bot. Deshabilitado!"}
+{"level":20,"time":1693778691929,"pid":3884,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando comando info. Deshabilitado!"}
+{"level":20,"time":1693778691943,"pid":3884,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command deafen. Deshabilitado!"}
+{"level":20,"time":1693778691944,"pid":3884,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command disconnect. Deshabilitado!"}
+{"level":20,"time":1693778691945,"pid":3884,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command move. Deshabilitado!"}
+{"level":20,"time":1693778691946,"pid":3884,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command purge. Deshabilitado!"}
+{"level":20,"time":1693778691947,"pid":3884,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command purgeattach. Deshabilitado!"}
+{"level":20,"time":1693778691947,"pid":3884,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command purgebots. Deshabilitado!"}
+{"level":20,"time":1693778691948,"pid":3884,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command purgelinks. Deshabilitado!"}
+{"level":20,"time":1693778691949,"pid":3884,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command purgetoken. Deshabilitado!"}
+{"level":20,"time":1693778691950,"pid":3884,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command purgeuser. Deshabilitado!"}
+{"level":20,"time":1693778691951,"pid":3884,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command undeafen. Deshabilitado!"}
+{"level":20,"time":1693778691953,"pid":3884,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command vmute. Deshabilitado!"}
+{"level":20,"time":1693778691955,"pid":3884,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command vunmute. Deshabilitado!"}
+{"level":20,"time":1693778691957,"pid":3884,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando comando purge. Deshabilitado!"}
+{"level":20,"time":1693778691958,"pid":3884,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando comando voice. Deshabilitado!"}
+{"level":20,"time":1693778691977,"pid":3884,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command eval. Deshabilitado!"}
+{"level":20,"time":1693778691978,"pid":3884,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command leaveserver. Deshabilitado!"}
+{"level":20,"time":1693778691978,"pid":3884,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command listservers. Deshabilitado!"}
+{"level":30,"time":1693778692023,"pid":3884,"hostname":"DESKTOP-MFP1CTU","msg":"Cargados  105 comandos"}
+{"level":30,"time":1693778692023,"pid":3884,"hostname":"DESKTOP-MFP1CTU","msg":"Cargados  86 slash commands"}
+{"level":30,"time":1693778692023,"pid":3884,"hostname":"DESKTOP-MFP1CTU","msg":"Carga de contextos..."}
+{"level":30,"time":1693778692025,"pid":3884,"hostname":"DESKTOP-MFP1CTU","msg":"Cargados 0 contextos de USUARIO"}
+{"level":30,"time":1693778692025,"pid":3884,"hostname":"DESKTOP-MFP1CTU","msg":"Cargados 0 contextos de MENSAJE"}
+{"level":30,"time":1693778692025,"pid":3884,"hostname":"DESKTOP-MFP1CTU","msg":"Cargando eventos..."}
+{"level":30,"time":1693778692069,"pid":3884,"hostname":"DESKTOP-MFP1CTU","msg":"Cargados 15 eventos. Exito (15) Fallos (0)"}
+{"level":30,"time":1693778692069,"pid":3884,"hostname":"DESKTOP-MFP1CTU","msg":"Iniciando Panel de Control"}
+{"level":30,"time":1693778692275,"pid":3884,"hostname":"DESKTOP-MFP1CTU","msg":"Conectando con MongoDb..."}
+{"level":30,"time":1693778694438,"pid":13336,"hostname":"DESKTOP-MFP1CTU","msg":"Validando del archivo de configuracion y las variables de entorno"}
+{"level":30,"time":1693778694512,"pid":13336,"hostname":"DESKTOP-MFP1CTU","msg":"Cargando comandos..."}
+{"level":20,"time":1693778695104,"pid":13336,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command avatar. Deshabilitado!"}
+{"level":20,"time":1693778695105,"pid":13336,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command botinvite. Deshabilitado!"}
+{"level":20,"time":1693778695107,"pid":13336,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command botstats. Deshabilitado!"}
+{"level":20,"time":1693778695110,"pid":13336,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command channelinfo. Deshabilitado!"}
+{"level":20,"time":1693778695111,"pid":13336,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command emojiinfo. Deshabilitado!"}
+{"level":20,"time":1693778695123,"pid":13336,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command guildinfo. Deshabilitado!"}
+{"level":20,"time":1693778695124,"pid":13336,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command uptime. Deshabilitado!"}
+{"level":20,"time":1693778695125,"pid":13336,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command userinfo. Deshabilitado!"}
+{"level":20,"time":1693778695127,"pid":13336,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando comando bot. Deshabilitado!"}
+{"level":20,"time":1693778695129,"pid":13336,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando comando info. Deshabilitado!"}
+{"level":20,"time":1693778695144,"pid":13336,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command deafen. Deshabilitado!"}
+{"level":20,"time":1693778695145,"pid":13336,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command disconnect. Deshabilitado!"}
+{"level":20,"time":1693778695146,"pid":13336,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command move. Deshabilitado!"}
+{"level":20,"time":1693778695147,"pid":13336,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command purge. Deshabilitado!"}
+{"level":20,"time":1693778695148,"pid":13336,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command purgeattach. Deshabilitado!"}
+{"level":20,"time":1693778695149,"pid":13336,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command purgebots. Deshabilitado!"}
+{"level":20,"time":1693778695149,"pid":13336,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command purgelinks. Deshabilitado!"}
+{"level":20,"time":1693778695150,"pid":13336,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command purgetoken. Deshabilitado!"}
+{"level":20,"time":1693778695151,"pid":13336,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command purgeuser. Deshabilitado!"}
+{"level":20,"time":1693778695152,"pid":13336,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command undeafen. Deshabilitado!"}
+{"level":20,"time":1693778695153,"pid":13336,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command vmute. Deshabilitado!"}
+{"level":20,"time":1693778695155,"pid":13336,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command vunmute. Deshabilitado!"}
+{"level":20,"time":1693778695157,"pid":13336,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando comando purge. Deshabilitado!"}
+{"level":20,"time":1693778695158,"pid":13336,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando comando voice. Deshabilitado!"}
+{"level":20,"time":1693778695176,"pid":13336,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command eval. Deshabilitado!"}
+{"level":20,"time":1693778695177,"pid":13336,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command leaveserver. Deshabilitado!"}
+{"level":20,"time":1693778695178,"pid":13336,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command listservers. Deshabilitado!"}
+{"level":30,"time":1693778695207,"pid":13336,"hostname":"DESKTOP-MFP1CTU","msg":"Cargados  105 comandos"}
+{"level":30,"time":1693778695207,"pid":13336,"hostname":"DESKTOP-MFP1CTU","msg":"Cargados  86 slash commands"}
+{"level":30,"time":1693778695207,"pid":13336,"hostname":"DESKTOP-MFP1CTU","msg":"Carga de contextos..."}
+{"level":30,"time":1693778695208,"pid":13336,"hostname":"DESKTOP-MFP1CTU","msg":"Cargados 0 contextos de USUARIO"}
+{"level":30,"time":1693778695208,"pid":13336,"hostname":"DESKTOP-MFP1CTU","msg":"Cargados 0 contextos de MENSAJE"}
+{"level":30,"time":1693778695209,"pid":13336,"hostname":"DESKTOP-MFP1CTU","msg":"Cargando eventos..."}
+{"level":30,"time":1693778695249,"pid":13336,"hostname":"DESKTOP-MFP1CTU","msg":"Cargados 15 eventos. Exito (15) Fallos (0)"}
+{"level":30,"time":1693778695249,"pid":13336,"hostname":"DESKTOP-MFP1CTU","msg":"Iniciando Panel de Control"}
+{"level":30,"time":1693778695397,"pid":13336,"hostname":"DESKTOP-MFP1CTU","msg":"Conectando con MongoDb..."}
+{"level":30,"time":1693778695894,"pid":13336,"hostname":"DESKTOP-MFP1CTU","msg":"Mongoose: Conexion establecida con la base de datos"}
+{"level":30,"time":1693778695915,"pid":13336,"hostname":"DESKTOP-MFP1CTU","msg":"El Panel de control esta en el puerto 8080"}
+{"level":30,"time":1693778696575,"pid":13336,"hostname":"DESKTOP-MFP1CTU","msg":"Conectado como ArcticUpdate#9309! (1144707918189576332)"}
+{"level":20,"time":1693778696576,"pid":13336,"hostname":"DESKTOP-MFP1CTU","msg":"Nodo \"NODO KC\" debug: connection: creating websocket..."}
+{"level":30,"time":1693778696577,"pid":13336,"hostname":"DESKTOP-MFP1CTU","msg":"Gestor de musica iniciado"}
+{"level":30,"time":1693778696577,"pid":13336,"hostname":"DESKTOP-MFP1CTU","msg":"Iniciando gestor de sorteos..."}
+{"level":30,"time":1693778696622,"pid":13336,"hostname":"DESKTOP-MFP1CTU","msg":"Gestor de sorteos iniciado"}
+{"level":30,"time":1693778696694,"pid":13336,"hostname":"DESKTOP-MFP1CTU","msg":"Nodo \"NODO KC\" conectado"}
+{"level":20,"time":1693778696695,"pid":13336,"hostname":"DESKTOP-MFP1CTU","msg":"Nodo \"NODO KC\" debug: connection: connected in 117ms"}
+{"level":20,"time":1693778696712,"pid":13336,"hostname":"DESKTOP-MFP1CTU","msg":"Nodo \"NODO KC\" debug: connection: lavaclient <<< stats: {\"playingPlayers\":6,\"op\":\"stats\",\"memory\":{\"reservable\":1006632960,\"used\":705961728,\"free\":300671232,\"allocated\":1006632960},\"players\":57,\"cpu\":{\"cores\":3,\"systemLoad\":0,\"lavalinkLoad\":0.414046648607376},\"uptime\":32095416293}"}
+{"level":30,"time":1693778697296,"pid":13336,"hostname":"DESKTOP-MFP1CTU","msg":"Interacciones registradas con exito"}
+{"level":30,"time":1693778706791,"pid":3424,"hostname":"DESKTOP-MFP1CTU","msg":"Validando del archivo de configuracion y las variables de entorno"}
+{"level":30,"time":1693778706856,"pid":3424,"hostname":"DESKTOP-MFP1CTU","msg":"Cargando comandos..."}
+{"level":30,"time":1693778709292,"pid":10324,"hostname":"DESKTOP-MFP1CTU","msg":"Validando del archivo de configuracion y las variables de entorno"}
+{"level":30,"time":1693778709383,"pid":10324,"hostname":"DESKTOP-MFP1CTU","msg":"Cargando comandos..."}
+{"level":20,"time":1693778710088,"pid":10324,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command avatar. Deshabilitado!"}
+{"level":20,"time":1693778710089,"pid":10324,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command botinvite. Deshabilitado!"}
+{"level":20,"time":1693778710090,"pid":10324,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command botstats. Deshabilitado!"}
+{"level":20,"time":1693778710092,"pid":10324,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command channelinfo. Deshabilitado!"}
+{"level":20,"time":1693778710093,"pid":10324,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command emojiinfo. Deshabilitado!"}
+{"level":20,"time":1693778710103,"pid":10324,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command guildinfo. Deshabilitado!"}
+{"level":20,"time":1693778710104,"pid":10324,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command uptime. Deshabilitado!"}
+{"level":20,"time":1693778710105,"pid":10324,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command userinfo. Deshabilitado!"}
+{"level":20,"time":1693778710107,"pid":10324,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando comando bot. Deshabilitado!"}
+{"level":20,"time":1693778710108,"pid":10324,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando comando info. Deshabilitado!"}
+{"level":20,"time":1693778710120,"pid":10324,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command deafen. Deshabilitado!"}
+{"level":20,"time":1693778710121,"pid":10324,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command disconnect. Deshabilitado!"}
+{"level":20,"time":1693778710123,"pid":10324,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command move. Deshabilitado!"}
+{"level":20,"time":1693778710123,"pid":10324,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command purge. Deshabilitado!"}
+{"level":20,"time":1693778710124,"pid":10324,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command purgeattach. Deshabilitado!"}
+{"level":20,"time":1693778710125,"pid":10324,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command purgebots. Deshabilitado!"}
+{"level":20,"time":1693778710126,"pid":10324,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command purgelinks. Deshabilitado!"}
+{"level":20,"time":1693778710127,"pid":10324,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command purgetoken. Deshabilitado!"}
+{"level":20,"time":1693778710127,"pid":10324,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command purgeuser. Deshabilitado!"}
+{"level":20,"time":1693778710128,"pid":10324,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command undeafen. Deshabilitado!"}
+{"level":20,"time":1693778710130,"pid":10324,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command vmute. Deshabilitado!"}
+{"level":20,"time":1693778710131,"pid":10324,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command vunmute. Deshabilitado!"}
+{"level":20,"time":1693778710133,"pid":10324,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando comando purge. Deshabilitado!"}
+{"level":20,"time":1693778710135,"pid":10324,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando comando voice. Deshabilitado!"}
+{"level":20,"time":1693778710152,"pid":10324,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command eval. Deshabilitado!"}
+{"level":20,"time":1693778710153,"pid":10324,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command leaveserver. Deshabilitado!"}
+{"level":20,"time":1693778710154,"pid":10324,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command listservers. Deshabilitado!"}
+{"level":30,"time":1693778710181,"pid":10324,"hostname":"DESKTOP-MFP1CTU","msg":"Cargados  105 comandos"}
+{"level":30,"time":1693778710181,"pid":10324,"hostname":"DESKTOP-MFP1CTU","msg":"Cargados  86 slash commands"}
+{"level":30,"time":1693778710181,"pid":10324,"hostname":"DESKTOP-MFP1CTU","msg":"Carga de contextos..."}
+{"level":30,"time":1693778710183,"pid":10324,"hostname":"DESKTOP-MFP1CTU","msg":"Cargados 0 contextos de USUARIO"}
+{"level":30,"time":1693778710183,"pid":10324,"hostname":"DESKTOP-MFP1CTU","msg":"Cargados 0 contextos de MENSAJE"}
+{"level":30,"time":1693778710184,"pid":10324,"hostname":"DESKTOP-MFP1CTU","msg":"Cargando eventos..."}
+{"level":30,"time":1693778710249,"pid":10324,"hostname":"DESKTOP-MFP1CTU","msg":"Cargados 15 eventos. Exito (15) Fallos (0)"}
+{"level":30,"time":1693778710249,"pid":10324,"hostname":"DESKTOP-MFP1CTU","msg":"Iniciando Panel de Control"}
+{"level":30,"time":1693778710388,"pid":10324,"hostname":"DESKTOP-MFP1CTU","msg":"Conectando con MongoDb..."}
+{"level":30,"time":1693778710870,"pid":10324,"hostname":"DESKTOP-MFP1CTU","msg":"Mongoose: Conexion establecida con la base de datos"}
+{"level":30,"time":1693778710890,"pid":10324,"hostname":"DESKTOP-MFP1CTU","msg":"El Panel de control esta en el puerto 8080"}
+{"level":30,"time":1693778711609,"pid":10324,"hostname":"DESKTOP-MFP1CTU","msg":"Conectado como ArcticUpdate#9309! (1144707918189576332)"}
+{"level":20,"time":1693778711610,"pid":10324,"hostname":"DESKTOP-MFP1CTU","msg":"Nodo \"NODO KC\" debug: connection: creating websocket..."}
+{"level":30,"time":1693778711611,"pid":10324,"hostname":"DESKTOP-MFP1CTU","msg":"Gestor de musica iniciado"}
+{"level":30,"time":1693778711611,"pid":10324,"hostname":"DESKTOP-MFP1CTU","msg":"Iniciando gestor de sorteos..."}
+{"level":30,"time":1693778711653,"pid":10324,"hostname":"DESKTOP-MFP1CTU","msg":"Gestor de sorteos iniciado"}
+{"level":30,"time":1693778711757,"pid":10324,"hostname":"DESKTOP-MFP1CTU","msg":"Nodo \"NODO KC\" conectado"}
+{"level":20,"time":1693778711757,"pid":10324,"hostname":"DESKTOP-MFP1CTU","msg":"Nodo \"NODO KC\" debug: connection: connected in 146ms"}
+{"level":20,"time":1693778711777,"pid":10324,"hostname":"DESKTOP-MFP1CTU","msg":"Nodo \"NODO KC\" debug: connection: lavaclient <<< stats: {\"playingPlayers\":6,\"op\":\"stats\",\"memory\":{\"reservable\":1006632960,\"used\":565940816,\"free\":440702608,\"allocated\":1006632960},\"players\":57,\"cpu\":{\"cores\":3,\"systemLoad\":0,\"lavalinkLoad\":0.4140465551999082},\"uptime\":32095431355}"}
+{"level":30,"time":1693778712171,"pid":10324,"hostname":"DESKTOP-MFP1CTU","msg":"Interacciones registradas con exito"}
+{"level":30,"time":1693778735960,"pid":10020,"hostname":"DESKTOP-MFP1CTU","msg":"Validando del archivo de configuracion y las variables de entorno"}
+{"level":30,"time":1693778736027,"pid":10020,"hostname":"DESKTOP-MFP1CTU","msg":"Cargando comandos..."}
+{"level":20,"time":1693778736668,"pid":10020,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command avatar. Deshabilitado!"}
+{"level":20,"time":1693778736670,"pid":10020,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command botinvite. Deshabilitado!"}
+{"level":20,"time":1693778736671,"pid":10020,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command botstats. Deshabilitado!"}
+{"level":20,"time":1693778736673,"pid":10020,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command channelinfo. Deshabilitado!"}
+{"level":20,"time":1693778736674,"pid":10020,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command emojiinfo. Deshabilitado!"}
+{"level":20,"time":1693778736684,"pid":10020,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command guildinfo. Deshabilitado!"}
+{"level":20,"time":1693778736685,"pid":10020,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command uptime. Deshabilitado!"}
+{"level":20,"time":1693778736686,"pid":10020,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command userinfo. Deshabilitado!"}
+{"level":20,"time":1693778736688,"pid":10020,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando comando bot. Deshabilitado!"}
+{"level":20,"time":1693778736689,"pid":10020,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando comando info. Deshabilitado!"}
+{"level":20,"time":1693778736702,"pid":10020,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command deafen. Deshabilitado!"}
+{"level":20,"time":1693778736703,"pid":10020,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command disconnect. Deshabilitado!"}
+{"level":20,"time":1693778736705,"pid":10020,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command move. Deshabilitado!"}
+{"level":20,"time":1693778736706,"pid":10020,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command purge. Deshabilitado!"}
+{"level":20,"time":1693778736706,"pid":10020,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command purgeattach. Deshabilitado!"}
+{"level":20,"time":1693778736707,"pid":10020,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command purgebots. Deshabilitado!"}
+{"level":20,"time":1693778736707,"pid":10020,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command purgelinks. Deshabilitado!"}
+{"level":20,"time":1693778736708,"pid":10020,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command purgetoken. Deshabilitado!"}
+{"level":20,"time":1693778736709,"pid":10020,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command purgeuser. Deshabilitado!"}
+{"level":20,"time":1693778736711,"pid":10020,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command undeafen. Deshabilitado!"}
+{"level":20,"time":1693778736712,"pid":10020,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command vmute. Deshabilitado!"}
+{"level":20,"time":1693778736713,"pid":10020,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command vunmute. Deshabilitado!"}
+{"level":20,"time":1693778736716,"pid":10020,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando comando purge. Deshabilitado!"}
+{"level":20,"time":1693778736717,"pid":10020,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando comando voice. Deshabilitado!"}
+{"level":20,"time":1693778736735,"pid":10020,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command eval. Deshabilitado!"}
+{"level":20,"time":1693778736735,"pid":10020,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command leaveserver. Deshabilitado!"}
+{"level":20,"time":1693778736736,"pid":10020,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command listservers. Deshabilitado!"}
+{"level":30,"time":1693778736761,"pid":10020,"hostname":"DESKTOP-MFP1CTU","msg":"Cargados  105 comandos"}
+{"level":30,"time":1693778736762,"pid":10020,"hostname":"DESKTOP-MFP1CTU","msg":"Cargados  86 slash commands"}
+{"level":30,"time":1693778736762,"pid":10020,"hostname":"DESKTOP-MFP1CTU","msg":"Carga de contextos..."}
+{"level":30,"time":1693778736763,"pid":10020,"hostname":"DESKTOP-MFP1CTU","msg":"Cargados 0 contextos de USUARIO"}
+{"level":30,"time":1693778736763,"pid":10020,"hostname":"DESKTOP-MFP1CTU","msg":"Cargados 0 contextos de MENSAJE"}
+{"level":30,"time":1693778736763,"pid":10020,"hostname":"DESKTOP-MFP1CTU","msg":"Cargando eventos..."}
+{"level":30,"time":1693778736814,"pid":10020,"hostname":"DESKTOP-MFP1CTU","msg":"Cargados 15 eventos. Exito (15) Fallos (0)"}
+{"level":30,"time":1693778736814,"pid":10020,"hostname":"DESKTOP-MFP1CTU","msg":"Iniciando Panel de Control"}
+{"level":30,"time":1693778736959,"pid":10020,"hostname":"DESKTOP-MFP1CTU","msg":"Conectando con MongoDb..."}
+{"level":30,"time":1693778737419,"pid":10020,"hostname":"DESKTOP-MFP1CTU","msg":"Mongoose: Conexion establecida con la base de datos"}
+{"level":30,"time":1693778737438,"pid":10020,"hostname":"DESKTOP-MFP1CTU","msg":"El Panel de control esta en el puerto 8080"}
+{"level":30,"time":1693778738235,"pid":10020,"hostname":"DESKTOP-MFP1CTU","msg":"Conectado como ArcticUpdate#9309! (1144707918189576332)"}
+{"level":20,"time":1693778738236,"pid":10020,"hostname":"DESKTOP-MFP1CTU","msg":"Nodo \"NODO KC\" debug: connection: creating websocket..."}
+{"level":30,"time":1693778738237,"pid":10020,"hostname":"DESKTOP-MFP1CTU","msg":"Gestor de musica iniciado"}
+{"level":30,"time":1693778738237,"pid":10020,"hostname":"DESKTOP-MFP1CTU","msg":"Iniciando gestor de sorteos..."}
+{"level":30,"time":1693778738278,"pid":10020,"hostname":"DESKTOP-MFP1CTU","msg":"Gestor de sorteos iniciado"}
+{"level":30,"time":1693778738345,"pid":10020,"hostname":"DESKTOP-MFP1CTU","msg":"Nodo \"NODO KC\" conectado"}
+{"level":20,"time":1693778738345,"pid":10020,"hostname":"DESKTOP-MFP1CTU","msg":"Nodo \"NODO KC\" debug: connection: connected in 108ms"}
+{"level":20,"time":1693778738366,"pid":10020,"hostname":"DESKTOP-MFP1CTU","msg":"Nodo \"NODO KC\" debug: connection: lavaclient <<< stats: {\"playingPlayers\":7,\"op\":\"stats\",\"memory\":{\"reservable\":1006632960,\"used\":719123192,\"free\":287509768,\"allocated\":1006632960},\"players\":58,\"cpu\":{\"cores\":3,\"systemLoad\":0,\"lavalinkLoad\":0.414046368862187},\"uptime\":32095457947}"}
+{"level":30,"time":1693778740036,"pid":10020,"hostname":"DESKTOP-MFP1CTU","msg":"Interacciones registradas con exito"}
+{"level":30,"time":1693778766723,"pid":14136,"hostname":"DESKTOP-MFP1CTU","msg":"Validando del archivo de configuracion y las variables de entorno"}
+{"level":30,"time":1693778766789,"pid":14136,"hostname":"DESKTOP-MFP1CTU","msg":"Cargando comandos..."}
+{"level":20,"time":1693778767389,"pid":14136,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command avatar. Deshabilitado!"}
+{"level":20,"time":1693778767391,"pid":14136,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command botinvite. Deshabilitado!"}
+{"level":20,"time":1693778767393,"pid":14136,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command botstats. Deshabilitado!"}
+{"level":20,"time":1693778767395,"pid":14136,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command channelinfo. Deshabilitado!"}
+{"level":20,"time":1693778767396,"pid":14136,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command emojiinfo. Deshabilitado!"}
+{"level":20,"time":1693778767408,"pid":14136,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command guildinfo. Deshabilitado!"}
+{"level":20,"time":1693778767409,"pid":14136,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command uptime. Deshabilitado!"}
+{"level":20,"time":1693778767410,"pid":14136,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command userinfo. Deshabilitado!"}
+{"level":20,"time":1693778767412,"pid":14136,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando comando bot. Deshabilitado!"}
+{"level":20,"time":1693778767413,"pid":14136,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando comando info. Deshabilitado!"}
+{"level":20,"time":1693778767424,"pid":14136,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command deafen. Deshabilitado!"}
+{"level":20,"time":1693778767426,"pid":14136,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command disconnect. Deshabilitado!"}
+{"level":20,"time":1693778767427,"pid":14136,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command move. Deshabilitado!"}
+{"level":20,"time":1693778767428,"pid":14136,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command purge. Deshabilitado!"}
+{"level":20,"time":1693778767428,"pid":14136,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command purgeattach. Deshabilitado!"}
+{"level":20,"time":1693778767429,"pid":14136,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command purgebots. Deshabilitado!"}
+{"level":20,"time":1693778767430,"pid":14136,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command purgelinks. Deshabilitado!"}
+{"level":20,"time":1693778767430,"pid":14136,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command purgetoken. Deshabilitado!"}
+{"level":20,"time":1693778767431,"pid":14136,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command purgeuser. Deshabilitado!"}
+{"level":20,"time":1693778767432,"pid":14136,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command undeafen. Deshabilitado!"}
+{"level":20,"time":1693778767434,"pid":14136,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command vmute. Deshabilitado!"}
+{"level":20,"time":1693778767435,"pid":14136,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command vunmute. Deshabilitado!"}
+{"level":20,"time":1693778767437,"pid":14136,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando comando purge. Deshabilitado!"}
+{"level":20,"time":1693778767438,"pid":14136,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando comando voice. Deshabilitado!"}
+{"level":20,"time":1693778767455,"pid":14136,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command eval. Deshabilitado!"}
+{"level":20,"time":1693778767455,"pid":14136,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command leaveserver. Deshabilitado!"}
+{"level":20,"time":1693778767456,"pid":14136,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command listservers. Deshabilitado!"}
+{"level":30,"time":1693778767480,"pid":14136,"hostname":"DESKTOP-MFP1CTU","msg":"Cargados  105 comandos"}
+{"level":30,"time":1693778767480,"pid":14136,"hostname":"DESKTOP-MFP1CTU","msg":"Cargados  86 slash commands"}
+{"level":30,"time":1693778767480,"pid":14136,"hostname":"DESKTOP-MFP1CTU","msg":"Carga de contextos..."}
+{"level":30,"time":1693778767482,"pid":14136,"hostname":"DESKTOP-MFP1CTU","msg":"Cargados 0 contextos de USUARIO"}
+{"level":30,"time":1693778767482,"pid":14136,"hostname":"DESKTOP-MFP1CTU","msg":"Cargados 0 contextos de MENSAJE"}
+{"level":30,"time":1693778767482,"pid":14136,"hostname":"DESKTOP-MFP1CTU","msg":"Cargando eventos..."}
+{"level":30,"time":1693778767533,"pid":14136,"hostname":"DESKTOP-MFP1CTU","msg":"Cargados 15 eventos. Exito (15) Fallos (0)"}
+{"level":30,"time":1693778767533,"pid":14136,"hostname":"DESKTOP-MFP1CTU","msg":"Iniciando Panel de Control"}
+{"level":30,"time":1693778767671,"pid":14136,"hostname":"DESKTOP-MFP1CTU","msg":"Conectando con MongoDb..."}
+{"level":30,"time":1693778768291,"pid":14136,"hostname":"DESKTOP-MFP1CTU","msg":"Mongoose: Conexion establecida con la base de datos"}
+{"level":30,"time":1693778768311,"pid":14136,"hostname":"DESKTOP-MFP1CTU","msg":"El Panel de control esta en el puerto 8080"}
+{"level":30,"time":1693778769130,"pid":14136,"hostname":"DESKTOP-MFP1CTU","msg":"Conectado como ArcticUpdate#9309! (1144707918189576332)"}
+{"level":20,"time":1693778769130,"pid":14136,"hostname":"DESKTOP-MFP1CTU","msg":"Nodo \"NODO KC\" debug: connection: creating websocket..."}
+{"level":30,"time":1693778769132,"pid":14136,"hostname":"DESKTOP-MFP1CTU","msg":"Gestor de musica iniciado"}
+{"level":30,"time":1693778769132,"pid":14136,"hostname":"DESKTOP-MFP1CTU","msg":"Iniciando gestor de sorteos..."}
+{"level":30,"time":1693778769176,"pid":14136,"hostname":"DESKTOP-MFP1CTU","msg":"Gestor de sorteos iniciado"}
+{"level":30,"time":1693778769249,"pid":14136,"hostname":"DESKTOP-MFP1CTU","msg":"Nodo \"NODO KC\" conectado"}
+{"level":20,"time":1693778769249,"pid":14136,"hostname":"DESKTOP-MFP1CTU","msg":"Nodo \"NODO KC\" debug: connection: connected in 117ms"}
+{"level":20,"time":1693778769267,"pid":14136,"hostname":"DESKTOP-MFP1CTU","msg":"Nodo \"NODO KC\" debug: connection: lavaclient <<< stats: {\"playingPlayers\":7,\"op\":\"stats\",\"memory\":{\"reservable\":1006632960,\"used\":588046144,\"free\":418586816,\"allocated\":1006632960},\"players\":58,\"cpu\":{\"cores\":3,\"systemLoad\":0,\"lavalinkLoad\":0.41404617394717946},\"uptime\":32095488851}"}
+{"level":30,"time":1693778769624,"pid":14136,"hostname":"DESKTOP-MFP1CTU","msg":"Interacciones registradas con exito"}
+{"level":30,"time":1693778800022,"pid":14492,"hostname":"DESKTOP-MFP1CTU","msg":"Validando del archivo de configuracion y las variables de entorno"}
+{"level":30,"time":1693778800092,"pid":14492,"hostname":"DESKTOP-MFP1CTU","msg":"Cargando comandos..."}
+{"level":20,"time":1693778800776,"pid":14492,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command avatar. Deshabilitado!"}
+{"level":20,"time":1693778800778,"pid":14492,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command botinvite. Deshabilitado!"}
+{"level":20,"time":1693778800780,"pid":14492,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command botstats. Deshabilitado!"}
+{"level":20,"time":1693778800782,"pid":14492,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command channelinfo. Deshabilitado!"}
+{"level":20,"time":1693778800784,"pid":14492,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command emojiinfo. Deshabilitado!"}
+{"level":20,"time":1693778800795,"pid":14492,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command guildinfo. Deshabilitado!"}
+{"level":20,"time":1693778800796,"pid":14492,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command uptime. Deshabilitado!"}
+{"level":20,"time":1693778800797,"pid":14492,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command userinfo. Deshabilitado!"}
+{"level":20,"time":1693778800800,"pid":14492,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando comando bot. Deshabilitado!"}
+{"level":20,"time":1693778800801,"pid":14492,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando comando info. Deshabilitado!"}
+{"level":20,"time":1693778800816,"pid":14492,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command deafen. Deshabilitado!"}
+{"level":20,"time":1693778800817,"pid":14492,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command disconnect. Deshabilitado!"}
+{"level":20,"time":1693778800819,"pid":14492,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command move. Deshabilitado!"}
+{"level":20,"time":1693778800820,"pid":14492,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command purge. Deshabilitado!"}
+{"level":20,"time":1693778800821,"pid":14492,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command purgeattach. Deshabilitado!"}
+{"level":20,"time":1693778800822,"pid":14492,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command purgebots. Deshabilitado!"}
+{"level":20,"time":1693778800822,"pid":14492,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command purgelinks. Deshabilitado!"}
+{"level":20,"time":1693778800823,"pid":14492,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command purgetoken. Deshabilitado!"}
+{"level":20,"time":1693778800824,"pid":14492,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command purgeuser. Deshabilitado!"}
+{"level":20,"time":1693778800825,"pid":14492,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command undeafen. Deshabilitado!"}
+{"level":20,"time":1693778800827,"pid":14492,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command vmute. Deshabilitado!"}
+{"level":20,"time":1693778800829,"pid":14492,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command vunmute. Deshabilitado!"}
+{"level":20,"time":1693778800832,"pid":14492,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando comando purge. Deshabilitado!"}
+{"level":20,"time":1693778800834,"pid":14492,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando comando voice. Deshabilitado!"}
+{"level":20,"time":1693778800856,"pid":14492,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command eval. Deshabilitado!"}
+{"level":20,"time":1693778800857,"pid":14492,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command leaveserver. Deshabilitado!"}
+{"level":20,"time":1693778800858,"pid":14492,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command listservers. Deshabilitado!"}
+{"level":30,"time":1693778800885,"pid":14492,"hostname":"DESKTOP-MFP1CTU","msg":"Cargados  105 comandos"}
+{"level":30,"time":1693778800886,"pid":14492,"hostname":"DESKTOP-MFP1CTU","msg":"Cargados  86 slash commands"}
+{"level":30,"time":1693778800886,"pid":14492,"hostname":"DESKTOP-MFP1CTU","msg":"Carga de contextos..."}
+{"level":30,"time":1693778800887,"pid":14492,"hostname":"DESKTOP-MFP1CTU","msg":"Cargados 0 contextos de USUARIO"}
+{"level":30,"time":1693778800887,"pid":14492,"hostname":"DESKTOP-MFP1CTU","msg":"Cargados 0 contextos de MENSAJE"}
+{"level":30,"time":1693778800887,"pid":14492,"hostname":"DESKTOP-MFP1CTU","msg":"Cargando eventos..."}
+{"level":30,"time":1693778800926,"pid":14492,"hostname":"DESKTOP-MFP1CTU","msg":"Cargados 15 eventos. Exito (15) Fallos (0)"}
+{"level":30,"time":1693778800926,"pid":14492,"hostname":"DESKTOP-MFP1CTU","msg":"Iniciando Panel de Control"}
+{"level":30,"time":1693778801074,"pid":14492,"hostname":"DESKTOP-MFP1CTU","msg":"Conectando con MongoDb..."}
+{"level":30,"time":1693778801583,"pid":14492,"hostname":"DESKTOP-MFP1CTU","msg":"Mongoose: Conexion establecida con la base de datos"}
+{"level":30,"time":1693778801603,"pid":14492,"hostname":"DESKTOP-MFP1CTU","msg":"El Panel de control esta en el puerto 8080"}
+{"level":30,"time":1693778802282,"pid":14492,"hostname":"DESKTOP-MFP1CTU","msg":"Conectado como ArcticUpdate#9309! (1144707918189576332)"}
+{"level":20,"time":1693778802283,"pid":14492,"hostname":"DESKTOP-MFP1CTU","msg":"Nodo \"NODO KC\" debug: connection: creating websocket..."}
+{"level":30,"time":1693778802284,"pid":14492,"hostname":"DESKTOP-MFP1CTU","msg":"Gestor de musica iniciado"}
+{"level":30,"time":1693778802284,"pid":14492,"hostname":"DESKTOP-MFP1CTU","msg":"Iniciando gestor de sorteos..."}
+{"level":30,"time":1693778802373,"pid":14492,"hostname":"DESKTOP-MFP1CTU","msg":"Gestor de sorteos iniciado"}
+{"level":20,"time":1693778802424,"pid":14492,"hostname":"DESKTOP-MFP1CTU","msg":"Nodo \"NODO KC\" debug: connection: lavaclient <<< stats: {\"playingPlayers\":7,\"op\":\"stats\",\"memory\":{\"reservable\":1006632960,\"used\":446356968,\"free\":560275992,\"allocated\":1006632960},\"players\":57,\"cpu\":{\"cores\":3,\"systemLoad\":0,\"lavalinkLoad\":0.41404626079283924},\"uptime\":32095522003}"}
+{"level":30,"time":1693778802425,"pid":14492,"hostname":"DESKTOP-MFP1CTU","msg":"Nodo \"NODO KC\" conectado"}
+{"level":20,"time":1693778802425,"pid":14492,"hostname":"DESKTOP-MFP1CTU","msg":"Nodo \"NODO KC\" debug: connection: connected in 141ms"}
+{"level":30,"time":1693778802758,"pid":14492,"hostname":"DESKTOP-MFP1CTU","msg":"Interacciones registradas con exito"}
+{"level":20,"time":1693778862402,"pid":14492,"hostname":"DESKTOP-MFP1CTU","msg":"Nodo \"NODO KC\" debug: connection: lavaclient <<< stats: {\"playingPlayers\":7,\"op\":\"stats\",\"memory\":{\"reservable\":1006632960,\"used\":522731960,\"free\":483901000,\"allocated\":1006632960},\"players\":57,\"cpu\":{\"cores\":3,\"systemLoad\":0.09281220422025499,\"lavalinkLoad\":0.08991586364798328},\"uptime\":32095582003}"}
+{"level":20,"time":1693778922399,"pid":14492,"hostname":"DESKTOP-MFP1CTU","msg":"Nodo \"NODO KC\" debug: connection: lavaclient <<< stats: {\"playingPlayers\":6,\"op\":\"stats\",\"memory\":{\"reservable\":1006632960,\"used\":564697040,\"free\":441935920,\"allocated\":1006632960},\"players\":56,\"cpu\":{\"cores\":3,\"systemLoad\":0.09245985442018115,\"lavalinkLoad\":0.08772222222222222},\"uptime\":32095642003}"}
+{"level":20,"time":1693778982392,"pid":14492,"hostname":"DESKTOP-MFP1CTU","msg":"Nodo \"NODO KC\" debug: connection: lavaclient <<< stats: {\"playingPlayers\":6,\"op\":\"stats\",\"memory\":{\"reservable\":1006632960,\"used\":534228104,\"free\":472404856,\"allocated\":1006632960},\"players\":56,\"cpu\":{\"cores\":3,\"systemLoad\":0.10630610904313553,\"lavalinkLoad\":0.08700000000000001},\"uptime\":32095702003}"}
+{"level":30,"time":1693779014609,"pid":12444,"hostname":"DESKTOP-MFP1CTU","msg":"Validando del archivo de configuracion y las variables de entorno"}
+{"level":30,"time":1693779014683,"pid":12444,"hostname":"DESKTOP-MFP1CTU","msg":"Cargando comandos..."}
+{"level":20,"time":1693779015323,"pid":12444,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command avatar. Deshabilitado!"}
+{"level":20,"time":1693779015324,"pid":12444,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command botinvite. Deshabilitado!"}
+{"level":20,"time":1693779015326,"pid":12444,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command botstats. Deshabilitado!"}
+{"level":20,"time":1693779015328,"pid":12444,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command channelinfo. Deshabilitado!"}
+{"level":20,"time":1693779015329,"pid":12444,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command emojiinfo. Deshabilitado!"}
+{"level":20,"time":1693779015340,"pid":12444,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command guildinfo. Deshabilitado!"}
+{"level":20,"time":1693779015341,"pid":12444,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command uptime. Deshabilitado!"}
+{"level":20,"time":1693779015342,"pid":12444,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command userinfo. Deshabilitado!"}
+{"level":20,"time":1693779015344,"pid":12444,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando comando bot. Deshabilitado!"}
+{"level":20,"time":1693779015345,"pid":12444,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando comando info. Deshabilitado!"}
+{"level":20,"time":1693779015358,"pid":12444,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command deafen. Deshabilitado!"}
+{"level":20,"time":1693779015359,"pid":12444,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command disconnect. Deshabilitado!"}
+{"level":20,"time":1693779015361,"pid":12444,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command move. Deshabilitado!"}
+{"level":20,"time":1693779015361,"pid":12444,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command purge. Deshabilitado!"}
+{"level":20,"time":1693779015362,"pid":12444,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command purgeattach. Deshabilitado!"}
+{"level":20,"time":1693779015363,"pid":12444,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command purgebots. Deshabilitado!"}
+{"level":20,"time":1693779015364,"pid":12444,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command purgelinks. Deshabilitado!"}
+{"level":20,"time":1693779015365,"pid":12444,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command purgetoken. Deshabilitado!"}
+{"level":20,"time":1693779015365,"pid":12444,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command purgeuser. Deshabilitado!"}
+{"level":20,"time":1693779015367,"pid":12444,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command undeafen. Deshabilitado!"}
+{"level":20,"time":1693779015368,"pid":12444,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command vmute. Deshabilitado!"}
+{"level":20,"time":1693779015369,"pid":12444,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command vunmute. Deshabilitado!"}
+{"level":20,"time":1693779015371,"pid":12444,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando comando purge. Deshabilitado!"}
+{"level":20,"time":1693779015372,"pid":12444,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando comando voice. Deshabilitado!"}
+{"level":20,"time":1693779015390,"pid":12444,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command eval. Deshabilitado!"}
+{"level":20,"time":1693779015390,"pid":12444,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command leaveserver. Deshabilitado!"}
+{"level":20,"time":1693779015391,"pid":12444,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command listservers. Deshabilitado!"}
+{"level":30,"time":1693779015433,"pid":12444,"hostname":"DESKTOP-MFP1CTU","msg":"Cargados  105 comandos"}
+{"level":30,"time":1693779015433,"pid":12444,"hostname":"DESKTOP-MFP1CTU","msg":"Cargados  86 slash commands"}
+{"level":30,"time":1693779015433,"pid":12444,"hostname":"DESKTOP-MFP1CTU","msg":"Carga de contextos..."}
+{"level":30,"time":1693779015434,"pid":12444,"hostname":"DESKTOP-MFP1CTU","msg":"Cargados 0 contextos de USUARIO"}
+{"level":30,"time":1693779015434,"pid":12444,"hostname":"DESKTOP-MFP1CTU","msg":"Cargados 0 contextos de MENSAJE"}
+{"level":30,"time":1693779015435,"pid":12444,"hostname":"DESKTOP-MFP1CTU","msg":"Cargando eventos..."}
+{"level":30,"time":1693779015475,"pid":12444,"hostname":"DESKTOP-MFP1CTU","msg":"Cargados 15 eventos. Exito (15) Fallos (0)"}
+{"level":30,"time":1693779015475,"pid":12444,"hostname":"DESKTOP-MFP1CTU","msg":"Iniciando Panel de Control"}
+{"level":30,"time":1693779015627,"pid":12444,"hostname":"DESKTOP-MFP1CTU","msg":"Conectando con MongoDb..."}
+{"level":30,"time":1693779016266,"pid":12444,"hostname":"DESKTOP-MFP1CTU","msg":"Mongoose: Conexion establecida con la base de datos"}
+{"level":30,"time":1693779016288,"pid":12444,"hostname":"DESKTOP-MFP1CTU","msg":"El Panel de control esta en el puerto 8080"}
+{"level":30,"time":1693779017056,"pid":12444,"hostname":"DESKTOP-MFP1CTU","msg":"Conectado como ArcticUpdate#9309! (1144707918189576332)"}
+{"level":20,"time":1693779017057,"pid":12444,"hostname":"DESKTOP-MFP1CTU","msg":"Nodo \"NODO KC\" debug: connection: creating websocket..."}
+{"level":30,"time":1693779017058,"pid":12444,"hostname":"DESKTOP-MFP1CTU","msg":"Gestor de musica iniciado"}
+{"level":30,"time":1693779017058,"pid":12444,"hostname":"DESKTOP-MFP1CTU","msg":"Iniciando gestor de sorteos..."}
+{"level":30,"time":1693779017101,"pid":12444,"hostname":"DESKTOP-MFP1CTU","msg":"Gestor de sorteos iniciado"}
+{"level":30,"time":1693779017220,"pid":12444,"hostname":"DESKTOP-MFP1CTU","msg":"Nodo \"NODO KC\" conectado"}
+{"level":20,"time":1693779017220,"pid":12444,"hostname":"DESKTOP-MFP1CTU","msg":"Nodo \"NODO KC\" debug: connection: connected in 162ms"}
+{"level":20,"time":1693779017239,"pid":12444,"hostname":"DESKTOP-MFP1CTU","msg":"Nodo \"NODO KC\" debug: connection: lavaclient <<< stats: {\"playingPlayers\":6,\"op\":\"stats\",\"memory\":{\"reservable\":1006632960,\"used\":497889128,\"free\":508743832,\"allocated\":1006632960},\"players\":56,\"cpu\":{\"cores\":3,\"systemLoad\":0,\"lavalinkLoad\":0.41404739255921236},\"uptime\":32095736831}"}
+{"level":30,"time":1693779017729,"pid":12444,"hostname":"DESKTOP-MFP1CTU","msg":"Interacciones registradas con exito"}
+{"level":20,"time":1693779077217,"pid":12444,"hostname":"DESKTOP-MFP1CTU","msg":"Nodo \"NODO KC\" debug: connection: lavaclient <<< stats: {\"playingPlayers\":4,\"op\":\"stats\",\"memory\":{\"reservable\":1006632960,\"used\":666264624,\"free\":340368336,\"allocated\":1006632960},\"players\":54,\"cpu\":{\"cores\":3,\"systemLoad\":0.08877443650661793,\"lavalinkLoad\":0.08063664604902664},\"uptime\":32095796830}"}
+{"level":20,"time":1693779137216,"pid":12444,"hostname":"DESKTOP-MFP1CTU","msg":"Nodo \"NODO KC\" debug: connection: lavaclient <<< stats: {\"playingPlayers\":6,\"op\":\"stats\",\"memory\":{\"reservable\":1006632960,\"used\":451429248,\"free\":555203712,\"allocated\":1006632960},\"players\":56,\"cpu\":{\"cores\":3,\"systemLoad\":0.095251227179968,\"lavalinkLoad\":0.08360971761581752},\"uptime\":32095856831}"}
+{"level":30,"time":1693779146188,"pid":5308,"hostname":"DESKTOP-MFP1CTU","msg":"Validando del archivo de configuracion y las variables de entorno"}
+{"level":30,"time":1693779146274,"pid":5308,"hostname":"DESKTOP-MFP1CTU","msg":"Cargando comandos..."}
+{"level":20,"time":1693779146998,"pid":5308,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command avatar. Deshabilitado!"}
+{"level":20,"time":1693779147000,"pid":5308,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command botinvite. Deshabilitado!"}
+{"level":20,"time":1693779147002,"pid":5308,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command botstats. Deshabilitado!"}
+{"level":20,"time":1693779147017,"pid":5308,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command channelinfo. Deshabilitado!"}
+{"level":20,"time":1693779147019,"pid":5308,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command emojiinfo. Deshabilitado!"}
+{"level":20,"time":1693779147030,"pid":5308,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command guildinfo. Deshabilitado!"}
+{"level":20,"time":1693779147031,"pid":5308,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command uptime. Deshabilitado!"}
+{"level":20,"time":1693779147033,"pid":5308,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command userinfo. Deshabilitado!"}
+{"level":20,"time":1693779147035,"pid":5308,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando comando bot. Deshabilitado!"}
+{"level":20,"time":1693779147036,"pid":5308,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando comando info. Deshabilitado!"}
+{"level":20,"time":1693779147050,"pid":5308,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command deafen. Deshabilitado!"}
+{"level":20,"time":1693779147051,"pid":5308,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command disconnect. Deshabilitado!"}
+{"level":20,"time":1693779147053,"pid":5308,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command move. Deshabilitado!"}
+{"level":20,"time":1693779147053,"pid":5308,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command purge. Deshabilitado!"}
+{"level":20,"time":1693779147054,"pid":5308,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command purgeattach. Deshabilitado!"}
+{"level":20,"time":1693779147055,"pid":5308,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command purgebots. Deshabilitado!"}
+{"level":20,"time":1693779147055,"pid":5308,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command purgelinks. Deshabilitado!"}
+{"level":20,"time":1693779147056,"pid":5308,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command purgetoken. Deshabilitado!"}
+{"level":20,"time":1693779147056,"pid":5308,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command purgeuser. Deshabilitado!"}
+{"level":20,"time":1693779147058,"pid":5308,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command undeafen. Deshabilitado!"}
+{"level":20,"time":1693779147059,"pid":5308,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command vmute. Deshabilitado!"}
+{"level":20,"time":1693779147060,"pid":5308,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command vunmute. Deshabilitado!"}
+{"level":20,"time":1693779147064,"pid":5308,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando comando purge. Deshabilitado!"}
+{"level":20,"time":1693779147065,"pid":5308,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando comando voice. Deshabilitado!"}
+{"level":20,"time":1693779147085,"pid":5308,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command eval. Deshabilitado!"}
+{"level":20,"time":1693779147085,"pid":5308,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command leaveserver. Deshabilitado!"}
+{"level":20,"time":1693779147086,"pid":5308,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command listservers. Deshabilitado!"}
+{"level":30,"time":1693779147112,"pid":5308,"hostname":"DESKTOP-MFP1CTU","msg":"Cargados  105 comandos"}
+{"level":30,"time":1693779147112,"pid":5308,"hostname":"DESKTOP-MFP1CTU","msg":"Cargados  86 slash commands"}
+{"level":30,"time":1693779147113,"pid":5308,"hostname":"DESKTOP-MFP1CTU","msg":"Carga de contextos..."}
+{"level":30,"time":1693779147114,"pid":5308,"hostname":"DESKTOP-MFP1CTU","msg":"Cargados 0 contextos de USUARIO"}
+{"level":30,"time":1693779147114,"pid":5308,"hostname":"DESKTOP-MFP1CTU","msg":"Cargados 0 contextos de MENSAJE"}
+{"level":30,"time":1693779147114,"pid":5308,"hostname":"DESKTOP-MFP1CTU","msg":"Cargando eventos..."}
+{"level":30,"time":1693779147158,"pid":5308,"hostname":"DESKTOP-MFP1CTU","msg":"Cargados 15 eventos. Exito (15) Fallos (0)"}
+{"level":30,"time":1693779147158,"pid":5308,"hostname":"DESKTOP-MFP1CTU","msg":"Iniciando Panel de Control"}
+{"level":30,"time":1693779147334,"pid":5308,"hostname":"DESKTOP-MFP1CTU","msg":"Conectando con MongoDb..."}
+{"level":30,"time":1693779147941,"pid":5308,"hostname":"DESKTOP-MFP1CTU","msg":"Mongoose: Conexion establecida con la base de datos"}
+{"level":30,"time":1693779147966,"pid":5308,"hostname":"DESKTOP-MFP1CTU","msg":"El Panel de control esta en el puerto 8080"}
+{"level":30,"time":1693779148833,"pid":5308,"hostname":"DESKTOP-MFP1CTU","msg":"Conectado como ArcticUpdate#9309! (1144707918189576332)"}
+{"level":20,"time":1693779148834,"pid":5308,"hostname":"DESKTOP-MFP1CTU","msg":"Nodo \"NODO KC\" debug: connection: creating websocket..."}
+{"level":30,"time":1693779148835,"pid":5308,"hostname":"DESKTOP-MFP1CTU","msg":"Gestor de musica iniciado"}
+{"level":30,"time":1693779148835,"pid":5308,"hostname":"DESKTOP-MFP1CTU","msg":"Iniciando gestor de sorteos..."}
+{"level":30,"time":1693779148877,"pid":5308,"hostname":"DESKTOP-MFP1CTU","msg":"Gestor de sorteos iniciado"}
+{"level":30,"time":1693779149105,"pid":5308,"hostname":"DESKTOP-MFP1CTU","msg":"Nodo \"NODO KC\" conectado"}
+{"level":20,"time":1693779149105,"pid":5308,"hostname":"DESKTOP-MFP1CTU","msg":"Nodo \"NODO KC\" debug: connection: connected in 270ms"}
+{"level":20,"time":1693779149124,"pid":5308,"hostname":"DESKTOP-MFP1CTU","msg":"Nodo \"NODO KC\" debug: connection: lavaclient <<< stats: {\"playingPlayers\":6,\"op\":\"stats\",\"memory\":{\"reservable\":1006632960,\"used\":690676880,\"free\":315956080,\"allocated\":1006632960},\"players\":56,\"cpu\":{\"cores\":3,\"systemLoad\":0,\"lavalinkLoad\":0.4140480762678957},\"uptime\":32095868721}"}
+{"level":30,"time":1693779149386,"pid":5308,"hostname":"DESKTOP-MFP1CTU","msg":"Interacciones registradas con exito"}
+{"level":20,"time":1693779209103,"pid":5308,"hostname":"DESKTOP-MFP1CTU","msg":"Nodo \"NODO KC\" debug: connection: lavaclient <<< stats: {\"playingPlayers\":6,\"op\":\"stats\",\"memory\":{\"reservable\":1006632960,\"used\":768453072,\"free\":238179888,\"allocated\":1006632960},\"players\":56,\"cpu\":{\"cores\":3,\"systemLoad\":0.09011402634783572,\"lavalinkLoad\":0.08135909704739834},\"uptime\":32095928721}"}
+{"level":30,"time":1693779270161,"pid":2936,"hostname":"DESKTOP-MFP1CTU","msg":"Validando del archivo de configuracion y las variables de entorno"}
+{"level":30,"time":1693779270232,"pid":2936,"hostname":"DESKTOP-MFP1CTU","msg":"Cargando comandos..."}
+{"level":20,"time":1693779270916,"pid":2936,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command avatar. Deshabilitado!"}
+{"level":20,"time":1693779270918,"pid":2936,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command botinvite. Deshabilitado!"}
+{"level":20,"time":1693779270919,"pid":2936,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command botstats. Deshabilitado!"}
+{"level":20,"time":1693779270921,"pid":2936,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command channelinfo. Deshabilitado!"}
+{"level":20,"time":1693779270923,"pid":2936,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command emojiinfo. Deshabilitado!"}
+{"level":20,"time":1693779270933,"pid":2936,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command guildinfo. Deshabilitado!"}
+{"level":20,"time":1693779270934,"pid":2936,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command uptime. Deshabilitado!"}
+{"level":20,"time":1693779270935,"pid":2936,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command userinfo. Deshabilitado!"}
+{"level":20,"time":1693779270937,"pid":2936,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando comando bot. Deshabilitado!"}
+{"level":20,"time":1693779270939,"pid":2936,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando comando info. Deshabilitado!"}
+{"level":20,"time":1693779270967,"pid":2936,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command deafen. Deshabilitado!"}
+{"level":20,"time":1693779270969,"pid":2936,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command disconnect. Deshabilitado!"}
+{"level":20,"time":1693779270971,"pid":2936,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command move. Deshabilitado!"}
+{"level":20,"time":1693779270971,"pid":2936,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command purge. Deshabilitado!"}
+{"level":20,"time":1693779270972,"pid":2936,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command purgeattach. Deshabilitado!"}
+{"level":20,"time":1693779270973,"pid":2936,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command purgebots. Deshabilitado!"}
+{"level":20,"time":1693779270973,"pid":2936,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command purgelinks. Deshabilitado!"}
+{"level":20,"time":1693779270974,"pid":2936,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command purgetoken. Deshabilitado!"}
+{"level":20,"time":1693779270975,"pid":2936,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command purgeuser. Deshabilitado!"}
+{"level":20,"time":1693779270976,"pid":2936,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command undeafen. Deshabilitado!"}
+{"level":20,"time":1693779270978,"pid":2936,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command vmute. Deshabilitado!"}
+{"level":20,"time":1693779270979,"pid":2936,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command vunmute. Deshabilitado!"}
+{"level":20,"time":1693779270982,"pid":2936,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando comando purge. Deshabilitado!"}
+{"level":20,"time":1693779270983,"pid":2936,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando comando voice. Deshabilitado!"}
+{"level":20,"time":1693779271000,"pid":2936,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command eval. Deshabilitado!"}
+{"level":20,"time":1693779271001,"pid":2936,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command leaveserver. Deshabilitado!"}
+{"level":20,"time":1693779271002,"pid":2936,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command listservers. Deshabilitado!"}
+{"level":30,"time":1693779271028,"pid":2936,"hostname":"DESKTOP-MFP1CTU","msg":"Cargados  105 comandos"}
+{"level":30,"time":1693779271028,"pid":2936,"hostname":"DESKTOP-MFP1CTU","msg":"Cargados  86 slash commands"}
+{"level":30,"time":1693779271029,"pid":2936,"hostname":"DESKTOP-MFP1CTU","msg":"Carga de contextos..."}
+{"level":30,"time":1693779271030,"pid":2936,"hostname":"DESKTOP-MFP1CTU","msg":"Cargados 0 contextos de USUARIO"}
+{"level":30,"time":1693779271030,"pid":2936,"hostname":"DESKTOP-MFP1CTU","msg":"Cargados 0 contextos de MENSAJE"}
+{"level":30,"time":1693779271030,"pid":2936,"hostname":"DESKTOP-MFP1CTU","msg":"Cargando eventos..."}
+{"level":30,"time":1693779271070,"pid":2936,"hostname":"DESKTOP-MFP1CTU","msg":"Cargados 15 eventos. Exito (15) Fallos (0)"}
+{"level":30,"time":1693779271070,"pid":2936,"hostname":"DESKTOP-MFP1CTU","msg":"Iniciando Panel de Control"}
+{"level":30,"time":1693779271218,"pid":2936,"hostname":"DESKTOP-MFP1CTU","msg":"Conectando con MongoDb..."}
+{"level":30,"time":1693779271772,"pid":2936,"hostname":"DESKTOP-MFP1CTU","msg":"Mongoose: Conexion establecida con la base de datos"}
+{"level":30,"time":1693779271793,"pid":2936,"hostname":"DESKTOP-MFP1CTU","msg":"El Panel de control esta en el puerto 8080"}
+{"level":30,"time":1693779272563,"pid":2936,"hostname":"DESKTOP-MFP1CTU","msg":"Conectado como ArcticUpdate#9309! (1144707918189576332)"}
+{"level":20,"time":1693779272564,"pid":2936,"hostname":"DESKTOP-MFP1CTU","msg":"Nodo \"NODO KC\" debug: connection: creating websocket..."}
+{"level":30,"time":1693779272565,"pid":2936,"hostname":"DESKTOP-MFP1CTU","msg":"Gestor de musica iniciado"}
+{"level":30,"time":1693779272565,"pid":2936,"hostname":"DESKTOP-MFP1CTU","msg":"Iniciando gestor de sorteos..."}
+{"level":30,"time":1693779272613,"pid":2936,"hostname":"DESKTOP-MFP1CTU","msg":"Gestor de sorteos iniciado"}
+{"level":30,"time":1693779272672,"pid":2936,"hostname":"DESKTOP-MFP1CTU","msg":"Nodo \"NODO KC\" conectado"}
+{"level":20,"time":1693779272672,"pid":2936,"hostname":"DESKTOP-MFP1CTU","msg":"Nodo \"NODO KC\" debug: connection: connected in 107ms"}
+{"level":20,"time":1693779272688,"pid":2936,"hostname":"DESKTOP-MFP1CTU","msg":"Nodo \"NODO KC\" debug: connection: lavaclient <<< stats: {\"playingPlayers\":5,\"op\":\"stats\",\"memory\":{\"reservable\":1006632960,\"used\":634992344,\"free\":371640616,\"allocated\":1006632960},\"players\":55,\"cpu\":{\"cores\":3,\"systemLoad\":0,\"lavalinkLoad\":0.4140484052888589},\"uptime\":32095992295}"}
+{"level":30,"time":1693779273023,"pid":2936,"hostname":"DESKTOP-MFP1CTU","msg":"Interacciones registradas con exito"}
+{"level":30,"time":1693779292907,"pid":2116,"hostname":"DESKTOP-MFP1CTU","msg":"Validando del archivo de configuracion y las variables de entorno"}
+{"level":30,"time":1693779292969,"pid":2116,"hostname":"DESKTOP-MFP1CTU","msg":"Cargando comandos..."}
+{"level":20,"time":1693779293644,"pid":2116,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command avatar. Deshabilitado!"}
+{"level":20,"time":1693779293646,"pid":2116,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command botinvite. Deshabilitado!"}
+{"level":20,"time":1693779293648,"pid":2116,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command botstats. Deshabilitado!"}
+{"level":20,"time":1693779293650,"pid":2116,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command channelinfo. Deshabilitado!"}
+{"level":20,"time":1693779293652,"pid":2116,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command emojiinfo. Deshabilitado!"}
+{"level":30,"time":1693779295670,"pid":14372,"hostname":"DESKTOP-MFP1CTU","msg":"Validando del archivo de configuracion y las variables de entorno"}
+{"level":30,"time":1693779295735,"pid":14372,"hostname":"DESKTOP-MFP1CTU","msg":"Cargando comandos..."}
+{"level":20,"time":1693779296380,"pid":14372,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command avatar. Deshabilitado!"}
+{"level":20,"time":1693779296382,"pid":14372,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command botinvite. Deshabilitado!"}
+{"level":20,"time":1693779296383,"pid":14372,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command botstats. Deshabilitado!"}
+{"level":20,"time":1693779296385,"pid":14372,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command channelinfo. Deshabilitado!"}
+{"level":20,"time":1693779296387,"pid":14372,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command emojiinfo. Deshabilitado!"}
+{"level":20,"time":1693779296397,"pid":14372,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command guildinfo. Deshabilitado!"}
+{"level":20,"time":1693779296398,"pid":14372,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command uptime. Deshabilitado!"}
+{"level":20,"time":1693779296399,"pid":14372,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command userinfo. Deshabilitado!"}
+{"level":20,"time":1693779296402,"pid":14372,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando comando bot. Deshabilitado!"}
+{"level":20,"time":1693779296403,"pid":14372,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando comando info. Deshabilitado!"}
+{"level":20,"time":1693779296416,"pid":14372,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command deafen. Deshabilitado!"}
+{"level":20,"time":1693779296418,"pid":14372,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command disconnect. Deshabilitado!"}
+{"level":20,"time":1693779296419,"pid":14372,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command move. Deshabilitado!"}
+{"level":20,"time":1693779296420,"pid":14372,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command purge. Deshabilitado!"}
+{"level":20,"time":1693779296421,"pid":14372,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command purgeattach. Deshabilitado!"}
+{"level":20,"time":1693779296422,"pid":14372,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command purgebots. Deshabilitado!"}
+{"level":20,"time":1693779296423,"pid":14372,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command purgelinks. Deshabilitado!"}
+{"level":20,"time":1693779296423,"pid":14372,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command purgetoken. Deshabilitado!"}
+{"level":20,"time":1693779296424,"pid":14372,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command purgeuser. Deshabilitado!"}
+{"level":20,"time":1693779296425,"pid":14372,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command undeafen. Deshabilitado!"}
+{"level":20,"time":1693779296426,"pid":14372,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command vmute. Deshabilitado!"}
+{"level":20,"time":1693779296428,"pid":14372,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command vunmute. Deshabilitado!"}
+{"level":20,"time":1693779296431,"pid":14372,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando comando purge. Deshabilitado!"}
+{"level":20,"time":1693779296432,"pid":14372,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando comando voice. Deshabilitado!"}
+{"level":20,"time":1693779296450,"pid":14372,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command eval. Deshabilitado!"}
+{"level":20,"time":1693779296451,"pid":14372,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command leaveserver. Deshabilitado!"}
+{"level":20,"time":1693779296452,"pid":14372,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command listservers. Deshabilitado!"}
+{"level":30,"time":1693779296476,"pid":14372,"hostname":"DESKTOP-MFP1CTU","msg":"Cargados  105 comandos"}
+{"level":30,"time":1693779296476,"pid":14372,"hostname":"DESKTOP-MFP1CTU","msg":"Cargados  86 slash commands"}
+{"level":30,"time":1693779296477,"pid":14372,"hostname":"DESKTOP-MFP1CTU","msg":"Carga de contextos..."}
+{"level":30,"time":1693779296479,"pid":14372,"hostname":"DESKTOP-MFP1CTU","msg":"Cargados 0 contextos de USUARIO"}
+{"level":30,"time":1693779296479,"pid":14372,"hostname":"DESKTOP-MFP1CTU","msg":"Cargados 0 contextos de MENSAJE"}
+{"level":30,"time":1693779296479,"pid":14372,"hostname":"DESKTOP-MFP1CTU","msg":"Cargando eventos..."}
+{"level":30,"time":1693779296517,"pid":14372,"hostname":"DESKTOP-MFP1CTU","msg":"Cargados 15 eventos. Exito (15) Fallos (0)"}
+{"level":30,"time":1693779296517,"pid":14372,"hostname":"DESKTOP-MFP1CTU","msg":"Iniciando Panel de Control"}
+{"level":30,"time":1693779296655,"pid":14372,"hostname":"DESKTOP-MFP1CTU","msg":"Conectando con MongoDb..."}
+{"level":30,"time":1693779297158,"pid":14372,"hostname":"DESKTOP-MFP1CTU","msg":"Mongoose: Conexion establecida con la base de datos"}
+{"level":30,"time":1693779297195,"pid":14372,"hostname":"DESKTOP-MFP1CTU","msg":"El Panel de control esta en el puerto 8080"}
+{"level":30,"time":1693779297826,"pid":14372,"hostname":"DESKTOP-MFP1CTU","msg":"Conectado como ArcticUpdate#9309! (1144707918189576332)"}
+{"level":20,"time":1693779297827,"pid":14372,"hostname":"DESKTOP-MFP1CTU","msg":"Nodo \"NODO KC\" debug: connection: creating websocket..."}
+{"level":30,"time":1693779297828,"pid":14372,"hostname":"DESKTOP-MFP1CTU","msg":"Gestor de musica iniciado"}
+{"level":30,"time":1693779297828,"pid":14372,"hostname":"DESKTOP-MFP1CTU","msg":"Iniciando gestor de sorteos..."}
+{"level":30,"time":1693779297876,"pid":14372,"hostname":"DESKTOP-MFP1CTU","msg":"Gestor de sorteos iniciado"}
+{"level":30,"time":1693779297953,"pid":14372,"hostname":"DESKTOP-MFP1CTU","msg":"Nodo \"NODO KC\" conectado"}
+{"level":20,"time":1693779297953,"pid":14372,"hostname":"DESKTOP-MFP1CTU","msg":"Nodo \"NODO KC\" debug: connection: connected in 125ms"}
+{"level":20,"time":1693779297967,"pid":14372,"hostname":"DESKTOP-MFP1CTU","msg":"Nodo \"NODO KC\" debug: connection: lavaclient <<< stats: {\"playingPlayers\":5,\"op\":\"stats\",\"memory\":{\"reservable\":1006632960,\"used\":722875680,\"free\":283757280,\"allocated\":1006632960},\"players\":55,\"cpu\":{\"cores\":3,\"systemLoad\":0,\"lavalinkLoad\":0.414048252550145},\"uptime\":32096017569}"}
+{"level":30,"time":1693779298537,"pid":14372,"hostname":"DESKTOP-MFP1CTU","msg":"Interacciones registradas con exito"}
+{"level":20,"time":1693779357949,"pid":14372,"hostname":"DESKTOP-MFP1CTU","msg":"Nodo \"NODO KC\" debug: connection: lavaclient <<< stats: {\"playingPlayers\":6,\"op\":\"stats\",\"memory\":{\"reservable\":1006632960,\"used\":698885864,\"free\":307747096,\"allocated\":1006632960},\"players\":56,\"cpu\":{\"cores\":3,\"systemLoad\":0.09263604872052743,\"lavalinkLoad\":0.09230700833041573},\"uptime\":32096077569}"}
+{"level":20,"time":1693779417944,"pid":14372,"hostname":"DESKTOP-MFP1CTU","msg":"Nodo \"NODO KC\" debug: connection: lavaclient <<< stats: {\"playingPlayers\":6,\"op\":\"stats\",\"memory\":{\"reservable\":1006632960,\"used\":560333968,\"free\":446298992,\"allocated\":1006632960},\"players\":56,\"cpu\":{\"cores\":3,\"systemLoad\":0.09877085162423178,\"lavalinkLoad\":0.08261111111111111},\"uptime\":32096137569}"}
+{"level":20,"time":1693779477946,"pid":14372,"hostname":"DESKTOP-MFP1CTU","msg":"Nodo \"NODO KC\" debug: connection: lavaclient <<< stats: {\"playingPlayers\":6,\"op\":\"stats\",\"memory\":{\"reservable\":1006632960,\"used\":457195784,\"free\":549437176,\"allocated\":1006632960},\"players\":56,\"cpu\":{\"cores\":3,\"systemLoad\":0.10510477649504842,\"lavalinkLoad\":0.08660966761665084},\"uptime\":32096197570}"}
+{"level":20,"time":1693779537940,"pid":14372,"hostname":"DESKTOP-MFP1CTU","msg":"Nodo \"NODO KC\" debug: connection: lavaclient <<< stats: {\"playingPlayers\":6,\"op\":\"stats\",\"memory\":{\"reservable\":1006632960,\"used\":478782624,\"free\":527850336,\"allocated\":1006632960},\"players\":56,\"cpu\":{\"cores\":3,\"systemLoad\":0.10932809344468097,\"lavalinkLoad\":0.08911259632104979},\"uptime\":32096257569}"}
+{"level":30,"time":1693779575210,"pid":13516,"hostname":"DESKTOP-MFP1CTU","msg":"Validando del archivo de configuracion y las variables de entorno"}
+{"level":30,"time":1693779575273,"pid":13516,"hostname":"DESKTOP-MFP1CTU","msg":"Cargando comandos..."}
+{"level":20,"time":1693779575886,"pid":13516,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command avatar. Deshabilitado!"}
+{"level":20,"time":1693779575887,"pid":13516,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command botinvite. Deshabilitado!"}
+{"level":20,"time":1693779575889,"pid":13516,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command botstats. Deshabilitado!"}
+{"level":20,"time":1693779575891,"pid":13516,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command channelinfo. Deshabilitado!"}
+{"level":20,"time":1693779575893,"pid":13516,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command emojiinfo. Deshabilitado!"}
+{"level":20,"time":1693779575903,"pid":13516,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command guildinfo. Deshabilitado!"}
+{"level":20,"time":1693779575904,"pid":13516,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command uptime. Deshabilitado!"}
+{"level":20,"time":1693779575905,"pid":13516,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command userinfo. Deshabilitado!"}
+{"level":20,"time":1693779575907,"pid":13516,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando comando bot. Deshabilitado!"}
+{"level":20,"time":1693779575908,"pid":13516,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando comando info. Deshabilitado!"}
+{"level":20,"time":1693779575919,"pid":13516,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command deafen. Deshabilitado!"}
+{"level":20,"time":1693779575920,"pid":13516,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command disconnect. Deshabilitado!"}
+{"level":20,"time":1693779575922,"pid":13516,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command move. Deshabilitado!"}
+{"level":20,"time":1693779575922,"pid":13516,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command purge. Deshabilitado!"}
+{"level":20,"time":1693779575923,"pid":13516,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command purgeattach. Deshabilitado!"}
+{"level":20,"time":1693779575923,"pid":13516,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command purgebots. Deshabilitado!"}
+{"level":20,"time":1693779575924,"pid":13516,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command purgelinks. Deshabilitado!"}
+{"level":20,"time":1693779575925,"pid":13516,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command purgetoken. Deshabilitado!"}
+{"level":20,"time":1693779575926,"pid":13516,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command purgeuser. Deshabilitado!"}
+{"level":20,"time":1693779575928,"pid":13516,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command undeafen. Deshabilitado!"}
+{"level":20,"time":1693779575929,"pid":13516,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command vmute. Deshabilitado!"}
+{"level":20,"time":1693779575930,"pid":13516,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command vunmute. Deshabilitado!"}
+{"level":20,"time":1693779575932,"pid":13516,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando comando purge. Deshabilitado!"}
+{"level":20,"time":1693779575933,"pid":13516,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando comando voice. Deshabilitado!"}
+{"level":20,"time":1693779575951,"pid":13516,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command eval. Deshabilitado!"}
+{"level":20,"time":1693779575952,"pid":13516,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command leaveserver. Deshabilitado!"}
+{"level":20,"time":1693779575953,"pid":13516,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command listservers. Deshabilitado!"}
+{"level":30,"time":1693779575977,"pid":13516,"hostname":"DESKTOP-MFP1CTU","msg":"Cargados  105 comandos"}
+{"level":30,"time":1693779575977,"pid":13516,"hostname":"DESKTOP-MFP1CTU","msg":"Cargados  86 slash commands"}
+{"level":30,"time":1693779575977,"pid":13516,"hostname":"DESKTOP-MFP1CTU","msg":"Carga de contextos..."}
+{"level":30,"time":1693779575979,"pid":13516,"hostname":"DESKTOP-MFP1CTU","msg":"Cargados 0 contextos de USUARIO"}
+{"level":30,"time":1693779575979,"pid":13516,"hostname":"DESKTOP-MFP1CTU","msg":"Cargados 0 contextos de MENSAJE"}
+{"level":30,"time":1693779575979,"pid":13516,"hostname":"DESKTOP-MFP1CTU","msg":"Cargando eventos..."}
+{"level":30,"time":1693779576016,"pid":13516,"hostname":"DESKTOP-MFP1CTU","msg":"Cargados 15 eventos. Exito (15) Fallos (0)"}
+{"level":30,"time":1693779576016,"pid":13516,"hostname":"DESKTOP-MFP1CTU","msg":"Iniciando Panel de Control"}
+{"level":30,"time":1693779576151,"pid":13516,"hostname":"DESKTOP-MFP1CTU","msg":"Conectando con MongoDb..."}
+{"level":30,"time":1693779576785,"pid":13516,"hostname":"DESKTOP-MFP1CTU","msg":"Mongoose: Conexion establecida con la base de datos"}
+{"level":30,"time":1693779576805,"pid":13516,"hostname":"DESKTOP-MFP1CTU","msg":"El Panel de control esta en el puerto 8080"}
+{"level":30,"time":1693779577588,"pid":13516,"hostname":"DESKTOP-MFP1CTU","msg":"Conectado como ArcticUpdate#9309! (1144707918189576332)"}
+{"level":20,"time":1693779577589,"pid":13516,"hostname":"DESKTOP-MFP1CTU","msg":"Nodo \"NODO KC\" debug: connection: creating websocket..."}
+{"level":30,"time":1693779577590,"pid":13516,"hostname":"DESKTOP-MFP1CTU","msg":"Gestor de musica iniciado"}
+{"level":30,"time":1693779577590,"pid":13516,"hostname":"DESKTOP-MFP1CTU","msg":"Iniciando gestor de sorteos..."}
+{"level":30,"time":1693779577638,"pid":13516,"hostname":"DESKTOP-MFP1CTU","msg":"Gestor de sorteos iniciado"}
+{"level":30,"time":1693779577803,"pid":13516,"hostname":"DESKTOP-MFP1CTU","msg":"Nodo \"NODO KC\" conectado"}
+{"level":20,"time":1693779577803,"pid":13516,"hostname":"DESKTOP-MFP1CTU","msg":"Nodo \"NODO KC\" debug: connection: connected in 213ms"}
+{"level":20,"time":1693779577818,"pid":13516,"hostname":"DESKTOP-MFP1CTU","msg":"Nodo \"NODO KC\" debug: connection: lavaclient <<< stats: {\"playingPlayers\":7,\"op\":\"stats\",\"memory\":{\"reservable\":1006632960,\"used\":563909248,\"free\":442723712,\"allocated\":1006632960},\"players\":56,\"cpu\":{\"cores\":3,\"systemLoad\":0,\"lavalinkLoad\":0.4140464302145754},\"uptime\":32096297430}"}
+{"level":30,"time":1693779578199,"pid":13516,"hostname":"DESKTOP-MFP1CTU","msg":"Interacciones registradas con exito"}
+{"level":20,"time":1693779637797,"pid":13516,"hostname":"DESKTOP-MFP1CTU","msg":"Nodo \"NODO KC\" debug: connection: lavaclient <<< stats: {\"playingPlayers\":7,\"op\":\"stats\",\"memory\":{\"reservable\":1006632960,\"used\":628685624,\"free\":377947336,\"allocated\":1006632960},\"players\":56,\"cpu\":{\"cores\":3,\"systemLoad\":0.09339064418890254,\"lavalinkLoad\":0.09358519086599647},\"uptime\":32096357430}"}
+{"level":20,"time":1693779697794,"pid":13516,"hostname":"DESKTOP-MFP1CTU","msg":"Nodo \"NODO KC\" debug: connection: lavaclient <<< stats: {\"playingPlayers\":8,\"op\":\"stats\",\"memory\":{\"reservable\":1006632960,\"used\":798420368,\"free\":208212592,\"allocated\":1006632960},\"players\":57,\"cpu\":{\"cores\":3,\"systemLoad\":0.09821230290917167,\"lavalinkLoad\":0.0933888888888889},\"uptime\":32096417430}"}
+{"level":30,"time":1693779716768,"pid":14360,"hostname":"DESKTOP-MFP1CTU","msg":"Validando del archivo de configuracion y las variables de entorno"}
+{"level":30,"time":1693779716847,"pid":14360,"hostname":"DESKTOP-MFP1CTU","msg":"Cargando comandos..."}
+{"level":20,"time":1693779717513,"pid":14360,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command avatar. Deshabilitado!"}
+{"level":20,"time":1693779717515,"pid":14360,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command botinvite. Deshabilitado!"}
+{"level":20,"time":1693779717517,"pid":14360,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command botstats. Deshabilitado!"}
+{"level":20,"time":1693779717519,"pid":14360,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command channelinfo. Deshabilitado!"}
+{"level":20,"time":1693779717520,"pid":14360,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command emojiinfo. Deshabilitado!"}
+{"level":20,"time":1693779717531,"pid":14360,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command guildinfo. Deshabilitado!"}
+{"level":20,"time":1693779717532,"pid":14360,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command uptime. Deshabilitado!"}
+{"level":20,"time":1693779717533,"pid":14360,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command userinfo. Deshabilitado!"}
+{"level":20,"time":1693779717536,"pid":14360,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando comando bot. Deshabilitado!"}
+{"level":20,"time":1693779717537,"pid":14360,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando comando info. Deshabilitado!"}
+{"level":20,"time":1693779717552,"pid":14360,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command deafen. Deshabilitado!"}
+{"level":20,"time":1693779717553,"pid":14360,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command disconnect. Deshabilitado!"}
+{"level":20,"time":1693779717555,"pid":14360,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command move. Deshabilitado!"}
+{"level":20,"time":1693779717556,"pid":14360,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command purge. Deshabilitado!"}
+{"level":20,"time":1693779717557,"pid":14360,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command purgeattach. Deshabilitado!"}
+{"level":20,"time":1693779717558,"pid":14360,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command purgebots. Deshabilitado!"}
+{"level":20,"time":1693779717559,"pid":14360,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command purgelinks. Deshabilitado!"}
+{"level":20,"time":1693779717560,"pid":14360,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command purgetoken. Deshabilitado!"}
+{"level":20,"time":1693779717561,"pid":14360,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command purgeuser. Deshabilitado!"}
+{"level":20,"time":1693779717563,"pid":14360,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command undeafen. Deshabilitado!"}
+{"level":20,"time":1693779717564,"pid":14360,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command vmute. Deshabilitado!"}
+{"level":20,"time":1693779717566,"pid":14360,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command vunmute. Deshabilitado!"}
+{"level":20,"time":1693779717568,"pid":14360,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando comando purge. Deshabilitado!"}
+{"level":20,"time":1693779717570,"pid":14360,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando comando voice. Deshabilitado!"}
+{"level":20,"time":1693779717589,"pid":14360,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command eval. Deshabilitado!"}
+{"level":20,"time":1693779717590,"pid":14360,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command leaveserver. Deshabilitado!"}
+{"level":20,"time":1693779717591,"pid":14360,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command listservers. Deshabilitado!"}
+{"level":30,"time":1693779717618,"pid":14360,"hostname":"DESKTOP-MFP1CTU","msg":"Cargados  105 comandos"}
+{"level":30,"time":1693779717618,"pid":14360,"hostname":"DESKTOP-MFP1CTU","msg":"Cargados  86 slash commands"}
+{"level":30,"time":1693779717618,"pid":14360,"hostname":"DESKTOP-MFP1CTU","msg":"Carga de contextos..."}
+{"level":30,"time":1693779717620,"pid":14360,"hostname":"DESKTOP-MFP1CTU","msg":"Cargados 0 contextos de USUARIO"}
+{"level":30,"time":1693779717620,"pid":14360,"hostname":"DESKTOP-MFP1CTU","msg":"Cargados 0 contextos de MENSAJE"}
+{"level":30,"time":1693779717620,"pid":14360,"hostname":"DESKTOP-MFP1CTU","msg":"Cargando eventos..."}
+{"level":30,"time":1693779717662,"pid":14360,"hostname":"DESKTOP-MFP1CTU","msg":"Cargados 15 eventos. Exito (15) Fallos (0)"}
+{"level":30,"time":1693779717663,"pid":14360,"hostname":"DESKTOP-MFP1CTU","msg":"Iniciando Panel de Control"}
+{"level":30,"time":1693779717817,"pid":14360,"hostname":"DESKTOP-MFP1CTU","msg":"Conectando con MongoDb..."}
+{"level":30,"time":1693779718446,"pid":14360,"hostname":"DESKTOP-MFP1CTU","msg":"Mongoose: Conexion establecida con la base de datos"}
+{"level":30,"time":1693779718466,"pid":14360,"hostname":"DESKTOP-MFP1CTU","msg":"El Panel de control esta en el puerto 8080"}
+{"level":30,"time":1693779719274,"pid":14360,"hostname":"DESKTOP-MFP1CTU","msg":"Conectado como ArcticUpdate#9309! (1144707918189576332)"}
+{"level":20,"time":1693779719275,"pid":14360,"hostname":"DESKTOP-MFP1CTU","msg":"Nodo \"NODO KC\" debug: connection: creating websocket..."}
+{"level":30,"time":1693779719276,"pid":14360,"hostname":"DESKTOP-MFP1CTU","msg":"Gestor de musica iniciado"}
+{"level":30,"time":1693779719276,"pid":14360,"hostname":"DESKTOP-MFP1CTU","msg":"Iniciando gestor de sorteos..."}
+{"level":30,"time":1693779719320,"pid":14360,"hostname":"DESKTOP-MFP1CTU","msg":"Gestor de sorteos iniciado"}
+{"level":30,"time":1693779719386,"pid":14360,"hostname":"DESKTOP-MFP1CTU","msg":"Nodo \"NODO KC\" conectado"}
+{"level":20,"time":1693779719386,"pid":14360,"hostname":"DESKTOP-MFP1CTU","msg":"Nodo \"NODO KC\" debug: connection: connected in 110ms"}
+{"level":20,"time":1693779719408,"pid":14360,"hostname":"DESKTOP-MFP1CTU","msg":"Nodo \"NODO KC\" debug: connection: lavaclient <<< stats: {\"playingPlayers\":8,\"op\":\"stats\",\"memory\":{\"reservable\":1006632960,\"used\":793542200,\"free\":213090760,\"allocated\":1006632960},\"players\":57,\"cpu\":{\"cores\":3,\"systemLoad\":0,\"lavalinkLoad\":0.4140454864353102},\"uptime\":32096439026}"}
+{"level":30,"time":1693779720038,"pid":14360,"hostname":"DESKTOP-MFP1CTU","msg":"Interacciones registradas con exito"}
+{"level":20,"time":1693779779386,"pid":14360,"hostname":"DESKTOP-MFP1CTU","msg":"Nodo \"NODO KC\" debug: connection: lavaclient <<< stats: {\"playingPlayers\":7,\"op\":\"stats\",\"memory\":{\"reservable\":1006632960,\"used\":704955416,\"free\":301677544,\"allocated\":1006632960},\"players\":57,\"cpu\":{\"cores\":3,\"systemLoad\":0.09929828469592338,\"lavalinkLoad\":0.09708629955041319},\"uptime\":32096499026}"}
+{"level":30,"time":1693779816415,"pid":14824,"hostname":"DESKTOP-MFP1CTU","msg":"Validando del archivo de configuracion y las variables de entorno"}
+{"level":30,"time":1693779816480,"pid":14824,"hostname":"DESKTOP-MFP1CTU","msg":"Cargando comandos..."}
+{"level":20,"time":1693779817089,"pid":14824,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command avatar. Deshabilitado!"}
+{"level":20,"time":1693779817091,"pid":14824,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command botinvite. Deshabilitado!"}
+{"level":20,"time":1693779817094,"pid":14824,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command botstats. Deshabilitado!"}
+{"level":20,"time":1693779817097,"pid":14824,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command channelinfo. Deshabilitado!"}
+{"level":20,"time":1693779817099,"pid":14824,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command emojiinfo. Deshabilitado!"}
+{"level":20,"time":1693779817112,"pid":14824,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command guildinfo. Deshabilitado!"}
+{"level":20,"time":1693779817113,"pid":14824,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command uptime. Deshabilitado!"}
+{"level":20,"time":1693779817114,"pid":14824,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command userinfo. Deshabilitado!"}
+{"level":20,"time":1693779817117,"pid":14824,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando comando bot. Deshabilitado!"}
+{"level":20,"time":1693779817119,"pid":14824,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando comando info. Deshabilitado!"}
+{"level":20,"time":1693779817134,"pid":14824,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command deafen. Deshabilitado!"}
+{"level":20,"time":1693779817136,"pid":14824,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command disconnect. Deshabilitado!"}
+{"level":20,"time":1693779817138,"pid":14824,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command move. Deshabilitado!"}
+{"level":20,"time":1693779817139,"pid":14824,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command purge. Deshabilitado!"}
+{"level":20,"time":1693779817141,"pid":14824,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command purgeattach. Deshabilitado!"}
+{"level":20,"time":1693779817142,"pid":14824,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command purgebots. Deshabilitado!"}
+{"level":20,"time":1693779817142,"pid":14824,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command purgelinks. Deshabilitado!"}
+{"level":20,"time":1693779817143,"pid":14824,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command purgetoken. Deshabilitado!"}
+{"level":20,"time":1693779817144,"pid":14824,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command purgeuser. Deshabilitado!"}
+{"level":20,"time":1693779817145,"pid":14824,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command undeafen. Deshabilitado!"}
+{"level":20,"time":1693779817147,"pid":14824,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command vmute. Deshabilitado!"}
+{"level":20,"time":1693779817148,"pid":14824,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command vunmute. Deshabilitado!"}
+{"level":20,"time":1693779817150,"pid":14824,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando comando purge. Deshabilitado!"}
+{"level":20,"time":1693779817152,"pid":14824,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando comando voice. Deshabilitado!"}
+{"level":20,"time":1693779817168,"pid":14824,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command eval. Deshabilitado!"}
+{"level":20,"time":1693779817169,"pid":14824,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command leaveserver. Deshabilitado!"}
+{"level":20,"time":1693779817170,"pid":14824,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command listservers. Deshabilitado!"}
+{"level":30,"time":1693779817211,"pid":14824,"hostname":"DESKTOP-MFP1CTU","msg":"Cargados  105 comandos"}
+{"level":30,"time":1693779817212,"pid":14824,"hostname":"DESKTOP-MFP1CTU","msg":"Cargados  86 slash commands"}
+{"level":30,"time":1693779817212,"pid":14824,"hostname":"DESKTOP-MFP1CTU","msg":"Carga de contextos..."}
+{"level":30,"time":1693779817213,"pid":14824,"hostname":"DESKTOP-MFP1CTU","msg":"Cargados 0 contextos de USUARIO"}
+{"level":30,"time":1693779817213,"pid":14824,"hostname":"DESKTOP-MFP1CTU","msg":"Cargados 0 contextos de MENSAJE"}
+{"level":30,"time":1693779817213,"pid":14824,"hostname":"DESKTOP-MFP1CTU","msg":"Cargando eventos..."}
+{"level":30,"time":1693779817253,"pid":14824,"hostname":"DESKTOP-MFP1CTU","msg":"Cargados 15 eventos. Exito (15) Fallos (0)"}
+{"level":30,"time":1693779817253,"pid":14824,"hostname":"DESKTOP-MFP1CTU","msg":"Iniciando Panel de Control"}
+{"level":30,"time":1693779817395,"pid":14824,"hostname":"DESKTOP-MFP1CTU","msg":"Conectando con MongoDb..."}
+{"level":30,"time":1693779818017,"pid":14824,"hostname":"DESKTOP-MFP1CTU","msg":"Mongoose: Conexion establecida con la base de datos"}
+{"level":30,"time":1693779818038,"pid":14824,"hostname":"DESKTOP-MFP1CTU","msg":"El Panel de control esta en el puerto 8080"}
+{"level":30,"time":1693779819024,"pid":14824,"hostname":"DESKTOP-MFP1CTU","msg":"Conectado como ArcticUpdate#9309! (1144707918189576332)"}
+{"level":20,"time":1693779819025,"pid":14824,"hostname":"DESKTOP-MFP1CTU","msg":"Nodo \"NODO KC\" debug: connection: creating websocket..."}
+{"level":30,"time":1693779819026,"pid":14824,"hostname":"DESKTOP-MFP1CTU","msg":"Gestor de musica iniciado"}
+{"level":30,"time":1693779819026,"pid":14824,"hostname":"DESKTOP-MFP1CTU","msg":"Iniciando gestor de sorteos..."}
+{"level":30,"time":1693779819075,"pid":14824,"hostname":"DESKTOP-MFP1CTU","msg":"Gestor de sorteos iniciado"}
+{"level":30,"time":1693779819168,"pid":14824,"hostname":"DESKTOP-MFP1CTU","msg":"Nodo \"NODO KC\" conectado"}
+{"level":20,"time":1693779819168,"pid":14824,"hostname":"DESKTOP-MFP1CTU","msg":"Nodo \"NODO KC\" debug: connection: connected in 142ms"}
+{"level":20,"time":1693779819186,"pid":14824,"hostname":"DESKTOP-MFP1CTU","msg":"Nodo \"NODO KC\" debug: connection: lavaclient <<< stats: {\"playingPlayers\":6,\"op\":\"stats\",\"memory\":{\"reservable\":1006632960,\"used\":496059768,\"free\":510573192,\"allocated\":1006632960},\"players\":56,\"cpu\":{\"cores\":3,\"systemLoad\":0,\"lavalinkLoad\":0.4140447342392654},\"uptime\":32096538808}"}
+{"level":30,"time":1693779819617,"pid":14824,"hostname":"DESKTOP-MFP1CTU","msg":"Interacciones registradas con exito"}
+{"level":20,"time":1693779879166,"pid":14824,"hostname":"DESKTOP-MFP1CTU","msg":"Nodo \"NODO KC\" debug: connection: lavaclient <<< stats: {\"playingPlayers\":6,\"op\":\"stats\",\"memory\":{\"reservable\":1006632960,\"used\":683431480,\"free\":323201480,\"allocated\":1006632960},\"players\":57,\"cpu\":{\"cores\":3,\"systemLoad\":0.08403784782486982,\"lavalinkLoad\":0.08408077978949241},\"uptime\":32096598807}"}
+{"level":20,"time":1693779939162,"pid":14824,"hostname":"DESKTOP-MFP1CTU","msg":"Nodo \"NODO KC\" debug: connection: lavaclient <<< stats: {\"playingPlayers\":7,\"op\":\"stats\",\"memory\":{\"reservable\":1006632960,\"used\":538630552,\"free\":468002408,\"allocated\":1006632960},\"players\":56,\"cpu\":{\"cores\":3,\"systemLoad\":0.10693436630476294,\"lavalinkLoad\":0.08727923243165164},\"uptime\":32096658807}"}
+{"level":20,"time":1693779999160,"pid":14824,"hostname":"DESKTOP-MFP1CTU","msg":"Nodo \"NODO KC\" debug: connection: lavaclient <<< stats: {\"playingPlayers\":6,\"op\":\"stats\",\"memory\":{\"reservable\":1006632960,\"used\":563692848,\"free\":442940112,\"allocated\":1006632960},\"players\":55,\"cpu\":{\"cores\":3,\"systemLoad\":0.08284288997253517,\"lavalinkLoad\":0.08677777777777779},\"uptime\":32096718807}"}
+{"level":20,"time":1693780059160,"pid":14824,"hostname":"DESKTOP-MFP1CTU","msg":"Nodo \"NODO KC\" debug: connection: lavaclient <<< stats: {\"playingPlayers\":6,\"op\":\"stats\",\"memory\":{\"reservable\":1006632960,\"used\":641530688,\"free\":365102272,\"allocated\":1006632960},\"players\":55,\"cpu\":{\"cores\":3,\"systemLoad\":0.08075127931170219,\"lavalinkLoad\":0.08733333333333333},\"uptime\":32096778807}"}
+{"level":20,"time":1693780119156,"pid":14824,"hostname":"DESKTOP-MFP1CTU","msg":"Nodo \"NODO KC\" debug: connection: lavaclient <<< stats: {\"playingPlayers\":7,\"op\":\"stats\",\"memory\":{\"reservable\":1006632960,\"used\":570445656,\"free\":436187304,\"allocated\":1006632960},\"players\":56,\"cpu\":{\"cores\":3,\"systemLoad\":0.09643807690129678,\"lavalinkLoad\":0.10905555555555556},\"uptime\":32096838807}"}
+{"level":20,"time":1693780179154,"pid":14824,"hostname":"DESKTOP-MFP1CTU","msg":"Nodo \"NODO KC\" debug: connection: lavaclient <<< stats: {\"playingPlayers\":7,\"op\":\"stats\",\"memory\":{\"reservable\":1006632960,\"used\":418164368,\"free\":588468592,\"allocated\":1006632960},\"players\":56,\"cpu\":{\"cores\":3,\"systemLoad\":0.07798321234119782,\"lavalinkLoad\":0.09250000000000001},\"uptime\":32096898807}"}
+{"level":30,"time":1693780225137,"pid":14848,"hostname":"DESKTOP-MFP1CTU","msg":"Validando del archivo de configuracion y las variables de entorno"}
+{"level":30,"time":1693780225201,"pid":14848,"hostname":"DESKTOP-MFP1CTU","msg":"Cargando comandos..."}
+{"level":20,"time":1693780225796,"pid":14848,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command avatar. Deshabilitado!"}
+{"level":20,"time":1693780225798,"pid":14848,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command botinvite. Deshabilitado!"}
+{"level":20,"time":1693780225801,"pid":14848,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command botstats. Deshabilitado!"}
+{"level":20,"time":1693780225805,"pid":14848,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command channelinfo. Deshabilitado!"}
+{"level":20,"time":1693780225806,"pid":14848,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command emojiinfo. Deshabilitado!"}
+{"level":20,"time":1693780225827,"pid":14848,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command guildinfo. Deshabilitado!"}
+{"level":20,"time":1693780225829,"pid":14848,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command uptime. Deshabilitado!"}
+{"level":20,"time":1693780225830,"pid":14848,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command userinfo. Deshabilitado!"}
+{"level":20,"time":1693780225834,"pid":14848,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando comando bot. Deshabilitado!"}
+{"level":20,"time":1693780225837,"pid":14848,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando comando info. Deshabilitado!"}
+{"level":20,"time":1693780225862,"pid":14848,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command deafen. Deshabilitado!"}
+{"level":20,"time":1693780225864,"pid":14848,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command disconnect. Deshabilitado!"}
+{"level":20,"time":1693780225867,"pid":14848,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command move. Deshabilitado!"}
+{"level":20,"time":1693780225868,"pid":14848,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command purge. Deshabilitado!"}
+{"level":20,"time":1693780225871,"pid":14848,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command purgeattach. Deshabilitado!"}
+{"level":20,"time":1693780225873,"pid":14848,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command purgebots. Deshabilitado!"}
+{"level":20,"time":1693780225874,"pid":14848,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command purgelinks. Deshabilitado!"}
+{"level":20,"time":1693780225875,"pid":14848,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command purgetoken. Deshabilitado!"}
+{"level":20,"time":1693780225876,"pid":14848,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command purgeuser. Deshabilitado!"}
+{"level":20,"time":1693780225878,"pid":14848,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command undeafen. Deshabilitado!"}
+{"level":20,"time":1693780225880,"pid":14848,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command vmute. Deshabilitado!"}
+{"level":20,"time":1693780225882,"pid":14848,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command vunmute. Deshabilitado!"}
+{"level":20,"time":1693780225885,"pid":14848,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando comando purge. Deshabilitado!"}
+{"level":20,"time":1693780225888,"pid":14848,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando comando voice. Deshabilitado!"}
+{"level":20,"time":1693780225911,"pid":14848,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command eval. Deshabilitado!"}
+{"level":20,"time":1693780225912,"pid":14848,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command leaveserver. Deshabilitado!"}
+{"level":20,"time":1693780225913,"pid":14848,"hostname":"DESKTOP-MFP1CTU","msg":"Saltando slash command listservers. Deshabilitado!"}
+{"level":30,"time":1693780225962,"pid":14848,"hostname":"DESKTOP-MFP1CTU","msg":"Cargados  105 comandos"}
+{"level":30,"time":1693780225962,"pid":14848,"hostname":"DESKTOP-MFP1CTU","msg":"Cargados  86 slash commands"}
+{"level":30,"time":1693780225963,"pid":14848,"hostname":"DESKTOP-MFP1CTU","msg":"Carga de contextos..."}
+{"level":30,"time":1693780225964,"pid":14848,"hostname":"DESKTOP-MFP1CTU","msg":"Cargados 0 contextos de USUARIO"}
+{"level":30,"time":1693780225964,"pid":14848,"hostname":"DESKTOP-MFP1CTU","msg":"Cargados 0 contextos de MENSAJE"}
+{"level":30,"time":1693780225964,"pid":14848,"hostname":"DESKTOP-MFP1CTU","msg":"Cargando eventos..."}
+{"level":30,"time":1693780226012,"pid":14848,"hostname":"DESKTOP-MFP1CTU","msg":"Cargados 15 eventos. Exito (15) Fallos (0)"}
+{"level":30,"time":1693780226012,"pid":14848,"hostname":"DESKTOP-MFP1CTU","msg":"Iniciando Panel de Control"}
+{"level":30,"time":1693780226188,"pid":14848,"hostname":"DESKTOP-MFP1CTU","msg":"Conectando con MongoDb..."}
+{"level":30,"time":1693780226708,"pid":14848,"hostname":"DESKTOP-MFP1CTU","msg":"Mongoose: Conexion establecida con la base de datos"}
+{"level":30,"time":1693780226728,"pid":14848,"hostname":"DESKTOP-MFP1CTU","msg":"El Panel de control esta en el puerto 8080"}
+{"level":30,"time":1693780227496,"pid":14848,"hostname":"DESKTOP-MFP1CTU","msg":"Conectado como ArcticUpdate#9309! (1144707918189576332)"}
+{"level":20,"time":1693780227497,"pid":14848,"hostname":"DESKTOP-MFP1CTU","msg":"Nodo \"NODO KC\" debug: connection: creating websocket..."}
+{"level":30,"time":1693780227498,"pid":14848,"hostname":"DESKTOP-MFP1CTU","msg":"Gestor de musica iniciado"}
+{"level":30,"time":1693780227498,"pid":14848,"hostname":"DESKTOP-MFP1CTU","msg":"Iniciando gestor de sorteos..."}
+{"level":30,"time":1693780227540,"pid":14848,"hostname":"DESKTOP-MFP1CTU","msg":"Gestor de sorteos iniciado"}
+{"level":30,"time":1693780227638,"pid":14848,"hostname":"DESKTOP-MFP1CTU","msg":"Nodo \"NODO KC\" conectado"}
+{"level":20,"time":1693780227638,"pid":14848,"hostname":"DESKTOP-MFP1CTU","msg":"Nodo \"NODO KC\" debug: connection: connected in 140ms"}
+{"level":20,"time":1693780227653,"pid":14848,"hostname":"DESKTOP-MFP1CTU","msg":"Nodo \"NODO KC\" debug: connection: lavaclient <<< stats: {\"playingPlayers\":8,\"op\":\"stats\",\"memory\":{\"reservable\":1006632960,\"used\":570867264,\"free\":435765696,\"allocated\":1006632960},\"players\":57,\"cpu\":{\"cores\":3,\"systemLoad\":0,\"lavalinkLoad\":0.4140468421522457},\"uptime\":32096947293}"}
+{"level":30,"time":1693780228124,"pid":14848,"hostname":"DESKTOP-MFP1CTU","msg":"Interacciones registradas con exito"}
+{"level":20,"time":1693780287644,"pid":14848,"hostname":"DESKTOP-MFP1CTU","msg":"Nodo \"NODO KC\" debug: connection: lavaclient <<< stats: {\"playingPlayers\":8,\"op\":\"stats\",\"memory\":{\"reservable\":1006632960,\"used\":504141256,\"free\":502491704,\"allocated\":1006632960},\"players\":57,\"cpu\":{\"cores\":3,\"systemLoad\":0.08301629663278633,\"lavalinkLoad\":0.0985279162429355},\"uptime\":32097007293}"}
+{"level":20,"time":1693780347633,"pid":14848,"hostname":"DESKTOP-MFP1CTU","msg":"Nodo \"NODO KC\" debug: connection: lavaclient <<< stats: {\"playingPlayers\":7,\"op\":\"stats\",\"memory\":{\"reservable\":1006632960,\"used\":730618096,\"free\":276014864,\"allocated\":1006632960},\"players\":56,\"cpu\":{\"cores\":3,\"systemLoad\":0.0707377096091112,\"lavalinkLoad\":0.0936111111111111},\"uptime\":32097067293}"}
