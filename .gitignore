@@ -12,5 +12,3 @@ package-lock.json
 
 # Ignorar cualquier archivo .env seguido de cualquier extensión
 .env*
-
-config.js
