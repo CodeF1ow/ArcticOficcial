@@ -1,0 +1,53 @@
+{"level":30,"time":1708034060941,"pid":10724,"hostname":"Kiridev","msg":"Validando del archivo de configuracion y las variables de entorno"}
+{"level":40,"time":1708034060942,"pid":10724,"hostname":"Kiridev","msg":"env: SPOTIFY_CLIENT_ID or SPOTIFY_CLIENT_SECRET están perdidos. Los enlaces de música de Spotify no funcionan"}
+{"level":40,"time":1708034060942,"pid":10724,"hostname":"Kiridev","msg":"env: WEATHERSTACK_KEY Está perdido. El comando meteorológico no funciona"}
+{"level":40,"time":1708034060942,"pid":10724,"hostname":"Kiridev","msg":"env: STRANGE_API_KEY Está perdido. Los comandos de imagen no funcionarán"}
+{"level":30,"time":1708034060969,"pid":10724,"hostname":"Kiridev","msg":"Cargando comandos..."}
+{"level":20,"time":1708034061255,"pid":10724,"hostname":"Kiridev","msg":"Saltando slash command avatar. Deshabilitado!"}
+{"level":20,"time":1708034061255,"pid":10724,"hostname":"Kiridev","msg":"Saltando slash command botinvite. Deshabilitado!"}
+{"level":20,"time":1708034061256,"pid":10724,"hostname":"Kiridev","msg":"Saltando slash command botstats. Deshabilitado!"}
+{"level":20,"time":1708034061257,"pid":10724,"hostname":"Kiridev","msg":"Saltando slash command channelinfo. Deshabilitado!"}
+{"level":20,"time":1708034061258,"pid":10724,"hostname":"Kiridev","msg":"Saltando slash command emojiinfo. Deshabilitado!"}
+{"level":20,"time":1708034061262,"pid":10724,"hostname":"Kiridev","msg":"Saltando slash command guildinfo. Deshabilitado!"}
+{"level":20,"time":1708034061263,"pid":10724,"hostname":"Kiridev","msg":"Saltando slash command uptime. Deshabilitado!"}
+{"level":20,"time":1708034061263,"pid":10724,"hostname":"Kiridev","msg":"Saltando slash command userinfo. Deshabilitado!"}
+{"level":20,"time":1708034061264,"pid":10724,"hostname":"Kiridev","msg":"Saltando comando bot. Deshabilitado!"}
+{"level":20,"time":1708034061265,"pid":10724,"hostname":"Kiridev","msg":"Saltando comando info. Deshabilitado!"}
+{"level":20,"time":1708034061270,"pid":10724,"hostname":"Kiridev","msg":"Saltando slash command deafen. Deshabilitado!"}
+{"level":20,"time":1708034061271,"pid":10724,"hostname":"Kiridev","msg":"Saltando slash command disconnect. Deshabilitado!"}
+{"level":20,"time":1708034061271,"pid":10724,"hostname":"Kiridev","msg":"Saltando slash command move. Deshabilitado!"}
+{"level":20,"time":1708034061271,"pid":10724,"hostname":"Kiridev","msg":"Saltando slash command purge. Deshabilitado!"}
+{"level":20,"time":1708034061272,"pid":10724,"hostname":"Kiridev","msg":"Saltando slash command purgeattach. Deshabilitado!"}
+{"level":20,"time":1708034061272,"pid":10724,"hostname":"Kiridev","msg":"Saltando slash command purgebots. Deshabilitado!"}
+{"level":20,"time":1708034061272,"pid":10724,"hostname":"Kiridev","msg":"Saltando slash command purgelinks. Deshabilitado!"}
+{"level":20,"time":1708034061273,"pid":10724,"hostname":"Kiridev","msg":"Saltando slash command purgetoken. Deshabilitado!"}
+{"level":20,"time":1708034061273,"pid":10724,"hostname":"Kiridev","msg":"Saltando slash command purgeuser. Deshabilitado!"}
+{"level":20,"time":1708034061273,"pid":10724,"hostname":"Kiridev","msg":"Saltando slash command undeafen. Deshabilitado!"}
+{"level":20,"time":1708034061274,"pid":10724,"hostname":"Kiridev","msg":"Saltando slash command vmute. Deshabilitado!"}
+{"level":20,"time":1708034061275,"pid":10724,"hostname":"Kiridev","msg":"Saltando slash command vunmute. Deshabilitado!"}
+{"level":20,"time":1708034061275,"pid":10724,"hostname":"Kiridev","msg":"Saltando comando purge. Deshabilitado!"}
+{"level":20,"time":1708034061276,"pid":10724,"hostname":"Kiridev","msg":"Saltando comando voice. Deshabilitado!"}
+{"level":20,"time":1708034061284,"pid":10724,"hostname":"Kiridev","msg":"Saltando slash command eval. Deshabilitado!"}
+{"level":20,"time":1708034061284,"pid":10724,"hostname":"Kiridev","msg":"Saltando slash command leaveserver. Deshabilitado!"}
+{"level":20,"time":1708034061285,"pid":10724,"hostname":"Kiridev","msg":"Saltando slash command listservers. Deshabilitado!"}
+{"level":30,"time":1708034061296,"pid":10724,"hostname":"Kiridev","msg":"Cargados  105 comandos"}
+{"level":30,"time":1708034061296,"pid":10724,"hostname":"Kiridev","msg":"Cargados  86 slash commands"}
+{"level":30,"time":1708034061296,"pid":10724,"hostname":"Kiridev","msg":"Carga de contextos..."}
+{"level":30,"time":1708034061297,"pid":10724,"hostname":"Kiridev","msg":"Cargados 0 contextos de USUARIO"}
+{"level":30,"time":1708034061297,"pid":10724,"hostname":"Kiridev","msg":"Cargados 0 contextos de MENSAJE"}
+{"level":30,"time":1708034061297,"pid":10724,"hostname":"Kiridev","msg":"Cargando eventos..."}
+{"level":30,"time":1708034061317,"pid":10724,"hostname":"Kiridev","msg":"Cargados 15 eventos. Exito (15) Fallos (0)"}
+{"level":30,"time":1708034061317,"pid":10724,"hostname":"Kiridev","msg":"Iniciando Panel de Control"}
+{"level":30,"time":1708034061412,"pid":10724,"hostname":"Kiridev","msg":"Conectando con MongoDb..."}
+{"level":30,"time":1708034061886,"pid":10724,"hostname":"Kiridev","msg":"Mongoose: Conexion establecida con la base de datos"}
+{"level":30,"time":1708034061898,"pid":10724,"hostname":"Kiridev","msg":"El Panel de control esta en el puerto8080"}
+{"level":30,"time":1708034062912,"pid":10724,"hostname":"Kiridev","msg":"Conectado como Arctic#0833! (1015480877658157136)"}
+{"level":20,"time":1708034062913,"pid":10724,"hostname":"Kiridev","msg":"Nodo \"Local Node\" debug: connection: creating websocket..."}
+{"level":30,"time":1708034062914,"pid":10724,"hostname":"Kiridev","msg":"Gestor de musica iniciado"}
+{"level":30,"time":1708034062914,"pid":10724,"hostname":"Kiridev","msg":"Iniciando gestor de sorteos..."}
+{"level":30,"time":1708034062990,"pid":10724,"hostname":"Kiridev","msg":"Gestor de sorteos iniciado"}
+{"level":30,"time":1708034063124,"pid":10724,"hostname":"Kiridev","msg":"Nodo \"Local Node\" conectado"}
+{"level":20,"time":1708034063124,"pid":10724,"hostname":"Kiridev","msg":"Nodo \"Local Node\" debug: connection: connected in 210ms"}
+{"level":20,"time":1708034063133,"pid":10724,"hostname":"Kiridev","msg":"Nodo \"Local Node\" debug: connection: lavaclient <<< stats: {\"playingPlayers\":5,\"op\":\"stats\",\"memory\":{\"reservable\":1006632960,\"used\":375797512,\"free\":522832120,\"allocated\":898629632},\"players\":37,\"cpu\":{\"cores\":3,\"systemLoad\":0,\"lavalinkLoad\":0.40684859122641437},\"uptime\":4603448925}"}
+{"level":30,"time":1708034063535,"pid":10724,"hostname":"Kiridev","msg":"Interacciones registradas con exito"}
+{"level":20,"time":1708034123134,"pid":10724,"hostname":"Kiridev","msg":"Nodo \"Local Node\" debug: connection: lavaclient <<< stats: {\"playingPlayers\":5,\"op\":\"stats\",\"memory\":{\"reservable\":1006632960,\"used\":319398608,\"free\":579231024,\"allocated\":898629632},\"players\":37,\"cpu\":{\"cores\":3,\"systemLoad\":0.02442036714758884,\"lavalinkLoad\":0.0304495193643385},\"uptime\":4603508925}"}
