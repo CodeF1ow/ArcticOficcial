@@ -19,6 +19,7 @@ module.exports = {
   botPermissions: ["EmbedLinks"],  // Permisos requeridos para el bot (en este caso, para enviar enlaces embebidos)
   command: {
     enabled: false,
+
   },
   slashCommand: {
     enabled: true,
@@ -38,6 +39,9 @@ module.exports = {
         description: "Obtener el tiempo de actividad del bot",
         type: ApplicationCommandOptionType.Subcommand,  // Subcomando
       },
+      {
+        
+      }
     ],
   },
 

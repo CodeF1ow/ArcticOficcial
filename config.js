@@ -36,7 +36,7 @@ module.exports = {
     },
   
     DASHBOARD: {
-      enabled: true, // enable or disable dashboard
+      enabled: false, // enable or disable dashboard
       baseURL: "https://arctic-oficcial.vercel.app", // base url
       failureURL: "https://arctic-oficcial.vercel.app", // failure redirect url
       port: "8080", // port to run the bot on
